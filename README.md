@@ -19,6 +19,6 @@
 安全性問題 7天<br>
 <br>
 <b>目前進度畫面:</b><br>
-<img src = "https://drive.google.com/file/d/0B3val4-Eg-wkcUduQ3lzQWpkV0U/view?usp=sharing" width = 800 height = 500>
+<img src = "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/11330454_831354716947384_1933873339_n.jpg?oh=d217f6e2dc0298db562b8816015c32e7&oe=5566A588&__gda__=1432774952_ef0a1606c4fe93d8b7251100c58562f9" width = 800 height = 500>
 <b>Burndown chart:</b><br>
 <img src = "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xta1/v/t34.0-12/11289759_814072922018579_597365743_n.jpg?oh=0f6ca66e97f0eba1bb98b7abc5fd1054&oe=555DD573&__gda__=1432228716_222702b468911eda002ad38afb360483" width = 850 height = 700>
