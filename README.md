@@ -20,5 +20,6 @@
 <br>
 <b>Trello:</b><br>
 <a href = "https://trello.com/b/LYdbNXou/welcome-board>https://trello.com/b/LYdbNXou/welcome-board</a>
+<br>
 <b>Burndown chart:</b><br>
 <img src = "/burn.jpg" width = 1000 height = 400>
