@@ -1,0 +1,24 @@
+<script type="text/javascript" src="js/movieSearch.js"></script>
+<link rel="stylesheet" href="css/cover_transform.css">
+<div style="text-align: center;">
+  <div style="margin:0 auto;">
+    <span>類型：</span>
+    <select id="select_style" name="select_style"></select>
+    <span>　分級：</span>
+    <select id="select_level" name="select_level">
+      <option value=''>請選擇</option>
+      <option value='普遍級'>普遍級</option>
+      <option value='保護級'>保護級</option>
+      <option value='輔導級'>輔導級</option>
+      <option value='限制級'>限制級</option>
+    </select>
+    <span>|　</span>
+    <div style="display:inline-table;">
+      <span>電影查詢：</span>
+      <input type="text" id="select_name" name="select_name"  placeholder="關鍵字">
+      <input type="button" id="submit" value="查詢" onclick="SearchMovie();">
+    </div>
+  </div>
+  <hr width="90%" align="center">
+  <div class="show_cover animated fadeIn"></div>
+</div>

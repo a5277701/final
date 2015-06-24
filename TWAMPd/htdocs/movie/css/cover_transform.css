@@ -1,0 +1,48 @@
+.cover_transform {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: black;
+    display: inline-table;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    transition: 0.5s;
+    -moz-transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.cover_transform:hover {
+    border: 4px ridge #DDD;*/
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+    .cover_transform .overlay {
+        position: absolute;
+        opacity: 0.8;
+        -webkit-transition: opacity 0.4s linear;
+        -moz-transition: opacity 0.4s linear;
+        -o-transition: opacity 0.4s linear;
+        transition: opacity 0.4s linear;
+    }
+    .cover_transform:hover .overlay {
+        opacity: 1;
+    }
+    .cover_transform img {
+        max-height: 110%;
+        max-width: 110%;
+        margin-left:-10px;
+        margin-top:-10px;
+        transition: 0.5s;
+        -moz-transition: 0.5s;
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+    }
+    .cover_transform:hover img {
+        max-height: 100%;
+        max-width: 100%;
+        margin-left:0px;
+        margin-top:0px;
+    }

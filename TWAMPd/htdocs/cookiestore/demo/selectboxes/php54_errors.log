@@ -1,0 +1,4 @@
+[09-Jun-2014 06:48:47 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in C:\TWAMPd\htdocs\cookiestore\demo\selectboxes\index.php on line 24
+[09-Jun-2014 08:48:57 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in C:\TWAMPd\htdocs\cookiestore\demo\selectboxes\action.php on line 9
+[09-Jun-2014 08:48:59 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in C:\TWAMPd\htdocs\cookiestore\demo\selectboxes\action.php on line 9
+[09-Jun-2014 08:49:04 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in C:\TWAMPd\htdocs\cookiestore\demo\selectboxes\action.php on line 9

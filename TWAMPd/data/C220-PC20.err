@@ -1,0 +1,19 @@
+141216 15:45:40 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141216 15:45:41 [Note] InnoDB: The InnoDB memory heap is disabled
+141216 15:45:41 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141216 15:45:41 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141216 15:45:41 [Note] InnoDB: Not using CPU crc32 instructions
+141216 15:45:41 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141216 15:45:41 [Note] InnoDB: Completed initialization of buffer pool
+141216 15:45:41 [Note] InnoDB: Highest supported file format is Barracuda.
+141216 15:45:41 [Note] InnoDB: The log sequence numbers 25932995 and 25932995 in ibdata files do not match the log sequence number 26187160 in the ib_logfiles!
+141216 15:45:41 [Note] InnoDB: Database was not shutdown normally!
+141216 15:45:41 [Note] InnoDB: Starting crash recovery.
+141216 15:45:41 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141216 15:45:44 [Note] InnoDB: Restoring possible half-written data pages 
+141216 15:45:44 [Note] InnoDB: from the doublewrite buffer...
+141216 15:45:46 [Note] InnoDB: 128 rollback segment(s) are active.
+141216 15:45:46 [Note] InnoDB: Waiting for purge to start
+141216 15:45:46 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 26187160
+141216 15:45:46 [Note] Plugin 'FEEDBACK' is disabled.
+141216 15:45:46 [Note] Server socket created on IP: '::'.

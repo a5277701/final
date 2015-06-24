@@ -1,0 +1,13 @@
+150624  0:38:22 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+150624  0:38:22 [Note] InnoDB: The InnoDB memory heap is disabled
+150624  0:38:22 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150624  0:38:22 [Note] InnoDB: Compressed tables use zlib 1.2.3
+150624  0:38:22 [Note] InnoDB: Not using CPU crc32 instructions
+150624  0:38:22 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+150624  0:38:22 [Note] InnoDB: Completed initialization of buffer pool
+150624  0:38:22 [Note] InnoDB: Highest supported file format is Barracuda.
+150624  0:38:23 [Note] InnoDB: 128 rollback segment(s) are active.
+150624  0:38:23 [Note] InnoDB: Waiting for purge to start
+150624  0:38:23 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 28899143
+150624  0:38:23 [Note] Plugin 'FEEDBACK' is disabled.
+150624  0:38:23 [Note] Server socket created on IP: '::'.

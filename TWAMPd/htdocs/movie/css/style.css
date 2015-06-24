@@ -1,0 +1,250 @@
+body{
+	background-color:#84C1FF;
+	background: url(../images/bg/bg4.jpg);
+	font-family: "Microsoft JhengHei";
+}
+
+.container {
+	position: relative;
+	width:90%;
+	height: 100%;
+	margin: 0 auto;
+	color: white;
+	text-shadow: 0px 0px 10px #000; 
+	overflow: hidden;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+	.container a{
+		color:white;
+		text-decoration:none;
+	}
+
+	.header {
+		width: 100%;
+		background: url(../images/bg/bg.jpg);
+		overflow: hidden;
+		margin: 0 auto;
+		padding: 20px 0;
+
+	}
+		.header .logo{
+			position: relative;
+			height: 60px;
+			width: 60px;
+			background-color: white;
+			white-space: nowrap;
+			text-indent: 100%;
+			margin-left: 30px;
+			float: left;
+			overflow: hidden;
+			cursor: pointer;
+			filter:alpha(Opacity=80);
+			-moz-opacity:0.8;
+			opacity: 0.8;
+			transition: 0.5s;
+		    -moz-transition: 0.5s;
+		    -webkit-transition: 0.5s;
+		    -o-transition: 0.5s;
+		}
+		.header .logo:hover {
+			filter:alpha(Opacity=100);
+			-moz-opacity:1;
+			opacity: 1;
+		}
+		.header .nav{
+			float: right;
+			/*margin-right: 50px;*/
+		}
+			.header .nav li{
+				margin-right: 30px;
+				display: inline-table;
+				text-align:	center;
+			}
+				.header .nav a{
+					font-size: 30px;
+				}
+				.header .nav a:hover{
+					position:relative ; top:1px ; left:1px;
+					font-weight: bold;
+					color:#00BBFF;
+					cursor: pointer;
+					-o-transition: color .20s linear;
+					-webkit-transition: color .20s linear;
+					-moz-transition: color .20s linear;
+					transition:  color .20s linear;
+				}
+	.content {
+		position: relative;
+		min-height:600px;
+		overflow-x:hidden;
+		overflow-y:hidden;
+		padding: 25px 0 30px 0;
+		background-color: rgba(50,50,50,0.6);
+		text-align: center;
+	}
+		.content #iframe{
+			margin: 0 auto;
+			width: 100%;
+		}
+			/*---MovieSearch---*/
+			.content #iframe .show_cover{
+				width: 90%;
+				margin:20px auto;
+				text-align: center;
+			}
+
+				.content #iframe .show_cover .show_cover_list{
+					text-align: left;
+					margin: 10px 20px 60px 40px;
+					cursor: pointer;
+					height: 250px;
+					width: 170px;
+					background-size: 100% ;
+					display: inline-table;
+				}
+
+				.content #iframe .show_cover .show_cover_list label{
+					font-size: 10pt;
+				}
+
+
+			/*---orderSearch---*/
+			.content #iframe .show_order{
+				width: 90%;
+				margin:20px auto;
+				text-align: center;
+			}
+
+				.content #iframe .show_order .show_order_list{
+					text-align: center;
+					margin: 0 auto;
+					width: 100%;
+					overflow: hidden;
+				}
+					.content #iframe .show_order .show_order_list .show_order_list_row{
+						position: relative;
+						background-color: rgba(50,50,50,0.6);
+						white-space: nowrap;
+						overflow: hidden;
+						text-align:left;
+						margin:0 auto;
+						transition: 1s;
+					    -moz-transition: 1s;
+					    -webkit-transition: 1s;
+					    -o-transition: 1s;
+					}
+					.content #iframe .show_order .show_order_list .show_order_list_row a{
+						transition: 1s;
+					    -moz-transition: 1s;
+					    -webkit-transition: 1s;
+					    -o-transition: 1s;
+					}
+					.content #iframe .show_order .show_order_list .show_order_list_row:hover{
+						background:rgba(90%,95%,100%,0.85);
+						color:blue;
+						width: 100%;
+						/*text-align: center;*/
+					}
+					.content #iframe .show_order .show_order_list .show_order_list_row:hover a{
+						color:blue;
+					}
+					.content #iframe .show_order .show_order_list .row_all {
+						width: 80%;
+					}
+					.content #iframe .show_order .show_order_list .row_theater {
+						width: 60%;
+					}
+					.content #iframe .show_order .show_order_list .row_hall {
+						width: 50%;
+					}
+
+					.content #iframe .show_order .show_order_list .row_all:hover {
+						padding-left: 10%;
+					}
+					.content #iframe .show_order .show_order_list .row_theater:hover {
+						padding-left: 20%;
+					}
+					.content #iframe .show_order .show_order_list .row_hall:hover {
+						padding-left: 25%;
+					}
+					.content #iframe .show_order .show_order_list .show_order_list_Info{
+					}
+					.content #iframe .show_order .show_order_list .show_order_list_row:hover .show_order_list_Info{
+						position: absolute;
+						color:blue;
+						display: none;
+						/*margin-left: -100%;*/
+						/*text-indent: -50%;*/
+						transition: 1s;
+					    -moz-transition: 1s;
+					    -webkit-transition: 1s;
+					    -o-transition: 1s;
+					}
+
+					.content #iframe .show_order .show_order_list .show_order_list_ShowMovieName {
+						position: relative;
+						transition: 1s;
+					    -moz-transition: 1s;
+					    -webkit-transition: 1s;
+					    -o-transition: 1s;
+					}
+					.content #iframe .show_order .show_order_list .show_order_list_row:hover a{
+		/*				position: absolute;
+						top:0px;
+						left: 10%;
+						margin-left: -100px;
+						width: 100%;
+						text-align: center;*/
+					}
+		.content #iframe .r_form{
+			margin: 0 auto;
+			width: 400px;
+			text-align: left;
+		}
+		.register_Prompt_fail{
+			color:red;
+			font-size: 8pt;
+			text-shadow: 0px 0px 0px #000;
+		}
+		.register_Prompt_OK{
+			color: green;
+			font-size: 8pt;
+			text-shadow: 0px 0px 0px #000;
+		}
+
+	.footer {
+		/*background: #003C9D;*/
+		padding: 10px 30px 10px 0;
+		text-align: right;
+		background: url(../images/bg/bg.jpg);
+	}
+
+
+/*nav selected*/
+.nav_change a{
+	color:#66E0F9;
+	font-weight: bold;
+}
+.top {
+    position: fixed;
+    right: 10px;
+    bottom:50px;
+    background: url(../images/bg/bg4.jpg);
+    border:2px outset #FFF;
+    padding: 10px 15px;
+    display: none;
+    z-index: 999;
+    font-size: 20px;
+	text-shadow: 0px 0px 0px ;
+    color:#000;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.top:hover {
+    background: url(../images/bg/bg4.jpg);
+	color: #003C9D;
+}
+

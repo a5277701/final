@@ -1,0 +1,717 @@
+[16-Dec-2014 08:27:48 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:27:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:28:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:28:52 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:29:23 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:29:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:31:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:31:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:32:03 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:32:19 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:32:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:34:16 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:34:18 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:38:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:42:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 18
+[16-Dec-2014 08:45:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[16-Dec-2014 08:45:09 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[16-Dec-2014 08:45:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[16-Dec-2014 08:45:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:46:34 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:46:50 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:46:52 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:46:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:48:25 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:49:19 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:49:32 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:51:26 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:51:58 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[16-Dec-2014 08:52:02 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[16-Dec-2014 08:52:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[16-Dec-2014 08:52:26 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[16-Dec-2014 08:54:23 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[16-Dec-2014 08:56:22 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:58:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:58:36 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:58:40 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 08:58:43 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 09:00:26 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 09:00:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 09:00:57 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 09:00:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[16-Dec-2014 09:01:17 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[17-Dec-2014 16:44:35 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[17-Dec-2014 16:44:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[17-Dec-2014 16:44:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[17-Dec-2014 16:48:42 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 1
+[17-Dec-2014 17:00:51 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:00:53 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:00:55 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:01:47 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:01:50 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:01:51 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:02:02 Asia/Taipei] PHP Parse error:  syntax error, unexpected '">請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:02:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 17
+[17-Dec-2014 17:02:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" selceted>請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:02:33 Asia/Taipei] PHP Parse error:  syntax error, unexpected '">請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:05:06 Asia/Taipei] PHP Parse error:  syntax error, unexpected '">請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 17
+[17-Dec-2014 17:05:16 Asia/Taipei] PHP Parse error:  syntax error, unexpected '">請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 17
+[17-Dec-2014 17:09:26 Asia/Taipei] PHP Parse error:  syntax error, unexpected '" >請選擇</option>"' (T_CONSTANT_ENCAPSED_STRING) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 6
+[17-Dec-2014 17:14:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 17:14:26 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 17:55:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 5
+[17-Dec-2014 17:55:25 Asia/Taipei] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 5
+[17-Dec-2014 17:55:31 Asia/Taipei] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 5
+[17-Dec-2014 17:55:57 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 14
+[17-Dec-2014 17:56:11 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 15
+[17-Dec-2014 17:58:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 17:58:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 17:58:59 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 18:00:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 18:01:27 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 18:03:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 12
+[17-Dec-2014 18:06:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 11
+[17-Dec-2014 18:06:41 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 11
+[21-Dec-2014 14:25:35 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$tn2' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 22
+[21-Dec-2014 14:25:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$tn2' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 22
+[21-Dec-2014 14:25:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$tn2' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 22
+[21-Dec-2014 14:26:11 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$tn2' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 22
+[21-Dec-2014 14:26:12 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$tn2' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 22
+[21-Dec-2014 14:44:55 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'desk' (T_STRING) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 25
+[21-Dec-2014 14:44:56 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'desk' (T_STRING) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 25
+[21-Dec-2014 15:04:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 30
+[21-Dec-2014 15:04:12 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 30
+[21-Dec-2014 15:04:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 30
+[21-Dec-2014 15:04:43 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 30
+[21-Dec-2014 15:04:44 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 30
+[21-Dec-2014 15:06:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 30
+[21-Dec-2014 15:07:49 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 30
+[21-Dec-2014 15:22:30 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 23
+[21-Dec-2014 15:24:29 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 23
+[21-Dec-2014 15:25:23 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 23
+[21-Dec-2014 16:55:23 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 20
+[21-Dec-2014 16:55:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 20
+[21-Dec-2014 16:55:27 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 20
+[21-Dec-2014 16:55:30 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 20
+[21-Dec-2014 17:03:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 14
+[21-Dec-2014 17:03:40 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 14
+[21-Dec-2014 17:11:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 6
+[21-Dec-2014 17:11:21 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 6
+[21-Dec-2014 17:19:43 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 12
+[21-Dec-2014 17:36:56 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 10
+[21-Dec-2014 17:36:58 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 10
+[21-Dec-2014 17:38:10 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 11
+[21-Dec-2014 17:38:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 11
+[21-Dec-2014 17:38:15 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_t.php on line 11
+[22-Dec-2014 00:58:31 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 16
+[22-Dec-2014 00:58:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 16
+[22-Dec-2014 00:58:46 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 16
+[22-Dec-2014 00:59:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 16
+[22-Dec-2014 00:59:07 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 16
+[22-Dec-2014 00:59:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 01:00:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 16
+[22-Dec-2014 01:00:28 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 01:00:29 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 01:44:56 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 01:45:02 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 01:50:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$str' (T_VARIABLE), expecting '(' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 23
+[22-Dec-2014 01:51:24 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 01:51:26 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 01:51:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 15
+[22-Dec-2014 01:51:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 15
+[22-Dec-2014 01:54:43 Asia/Taipei] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 01:56:55 Asia/Taipei] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 01:57:19 Asia/Taipei] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 13
+[22-Dec-2014 01:57:58 Asia/Taipei] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 02:18:35 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:18:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:18:53 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:19:40 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:20:49 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:38:07 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:38:09 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:38:10 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:38:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'i' (T_STRING) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 02:39:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 02:39:05 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 02:41:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 02:41:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 02:41:52 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 12
+[22-Dec-2014 02:50:07 Asia/Taipei] PHP Fatal error:  Call to undefined function decide_R() in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:50:09 Asia/Taipei] PHP Fatal error:  Call to undefined function decide_R() in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:50:11 Asia/Taipei] PHP Fatal error:  Call to undefined function decide_R() in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 02:50:40 Asia/Taipei] PHP Fatal error:  Call to undefined function decide_R() in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 03:00:24 Asia/Taipei] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 14
+[22-Dec-2014 03:00:26 Asia/Taipei] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 13
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:41 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:01:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:04:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:04:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:04:41 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:05:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:05:03 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:05:25 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$select_time' (T_VARIABLE), expecting function (T_FUNCTION) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:05:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$select_time' (T_VARIABLE), expecting function (T_FUNCTION) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:06:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$select_time' (T_VARIABLE), expecting function (T_FUNCTION) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:06:52 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$select_time' (T_VARIABLE), expecting function (T_FUNCTION) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 6
+[22-Dec-2014 03:07:31 Asia/Taipei] PHP Fatal error:  Class 'Demo' not found in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 15
+[22-Dec-2014 03:07:40 Asia/Taipei] PHP Fatal error:  Call to undefined function decide_R() in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 16
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:53 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:54 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:54 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:07:56 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 03:20:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 4
+[22-Dec-2014 03:20:14 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 4
+[22-Dec-2014 08:21:48 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 43
+[22-Dec-2014 08:26:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.1111' (T_DNUMBER) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 15
+[22-Dec-2014 08:42:05 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:05 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:05 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:06 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:42:40 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 19
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 17
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 9
+[22-Dec-2014 08:43:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 11
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:44:59 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:45:55 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:00 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:21 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:22 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:22 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:22 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:22 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:22 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:46:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:37 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:47:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:48:34 Asia/Taipei] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 20
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:49:35 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[22-Dec-2014 08:51:45 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_d.php on line 10
+[23-Dec-2014 14:40:43 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 18
+[23-Dec-2014 14:40:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_search_d.php on line 18
+[28-Dec-2014 18:26:58 Asia/Taipei] PHP Warning:  include(Dragon_No.9.inc.php): failed to open stream: No such file or directory in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 3
+[28-Dec-2014 18:26:58 Asia/Taipei] PHP Warning:  include(): Failed opening 'Dragon_No.9.inc.php' for inclusion (include_path='.;') in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 3
+[28-Dec-2014 18:26:58 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 10
+[28-Dec-2014 18:26:58 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 16
+[28-Dec-2014 18:27:20 Asia/Taipei] PHP Warning:  include(Dragon_No.9.inc.php): failed to open stream: No such file or directory in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 3
+[28-Dec-2014 18:27:20 Asia/Taipei] PHP Warning:  include(): Failed opening 'Dragon_No.9.inc.php' for inclusion (include_path='.;') in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 3
+[28-Dec-2014 18:27:20 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 10
+[28-Dec-2014 18:27:20 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation.php on line 16
+[28-Dec-2014 18:28:40 Asia/Taipei] PHP Warning:  include(Dragon_No.9.inc.php): failed to open stream: No such file or directory in H:\TWAMPd\htdocs\Dragon_No.9\process\connect.php on line 4
+[28-Dec-2014 18:28:40 Asia/Taipei] PHP Warning:  include(): Failed opening 'Dragon_No.9.inc.php' for inclusion (include_path='.;') in H:\TWAMPd\htdocs\Dragon_No.9\process\connect.php on line 4
+[28-Dec-2014 18:29:13 Asia/Taipei] PHP Warning:  include(Dragon_No.9.inc.php): failed to open stream: No such file or directory in H:\TWAMPd\htdocs\Dragon_No.9\process\connect.php on line 4
+[28-Dec-2014 18:29:14 Asia/Taipei] PHP Warning:  include(): Failed opening 'Dragon_No.9.inc.php' for inclusion (include_path='.;') in H:\TWAMPd\htdocs\Dragon_No.9\process\connect.php on line 4
+[28-Dec-2014 19:24:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:18 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:19 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:21 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:35 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:35 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[28-Dec-2014 19:24:40 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_reservation_date.php on line 10
+[29-Dec-2014 06:42:37 Asia/Taipei] PHP Warning:  include(process/Dragon_No.9.inc.php): failed to open stream: No such file or directory in H:\TWAMPd\htdocs\Dragon_No.9\process\process_management.php on line 17
+[29-Dec-2014 06:42:37 Asia/Taipei] PHP Warning:  include(): Failed opening 'process/Dragon_No.9.inc.php' for inclusion (include_path='.;') in H:\TWAMPd\htdocs\Dragon_No.9\process\process_management.php on line 17
+[29-Dec-2014 06:42:37 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\process_management.php on line 22

@@ -1,0 +1,30 @@
+#vmenu {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	#vmenu li {
+		padding: 5px 0;
+	}
+	#vmenu li a {
+		display: block;
+		height: 18px; /* 圖片的高 */
+		line-height: 18px;	/* ie suck */
+		text-indent: -9999px;
+	}
+	#vmenu a.h1 {
+		width:40px; /* 圖片的寬/2 */
+		background:url(h1.gif) no-repeat 0 0;	
+	}
+	#vmenu a.h2 {
+		width:58px; /* 圖片的寬/2 */
+		background:url(h2.gif) no-repeat 0 0;	
+	}	
+	#vmenu a.h3 {
+		width:58px; /* 圖片的寬/2 */
+		background:url(h3.gif) no-repeat 0 0;	
+	}
+	#vmenu a.h4 {
+		width:82px; /* 圖片的寬/2 */
+		background:url(h4.gif) no-repeat 0 0;	
+	}

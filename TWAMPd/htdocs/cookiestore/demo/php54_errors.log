@@ -1,0 +1,6 @@
+[04-Jun-2014 03:58:37 Asia/Taipei] PHP Warning:  require(../Connections/lr.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\demo\checkuser.php on line 1
+[04-Jun-2014 03:58:37 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../Connections/lr.php' (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\demo\checkuser.php on line 1
+[04-Jun-2014 03:58:59 Asia/Taipei] PHP Warning:  require(../Connections/lr.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\demo\checkuser.php on line 1
+[04-Jun-2014 03:58:59 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../Connections/lr.php' (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\demo\checkuser.php on line 1
+[04-Jun-2014 03:59:08 Asia/Taipei] PHP Warning:  require(../Connections/lr.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\demo\checkuser.php on line 1
+[04-Jun-2014 03:59:08 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../Connections/lr.php' (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\demo\checkuser.php on line 1

@@ -1,0 +1,59 @@
+[12-Jun-2014 09:03:41 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:03:41 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:03:46 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:03:46 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:04:50 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:04:50 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:05:25 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:05:25 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:05:36 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:05:36 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 8
+[12-Jun-2014 09:06:26 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:06:26 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:06:29 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:06:29 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:06:40 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:06:40 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:07:11 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:07:11 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:07:32 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:07:32 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:08:55 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:08:55 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:09:06 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:09:06 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:09:21 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:09:21 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:09:38 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:09:38 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:10:02 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:10:02 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:10:32 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:10:32 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:28 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:28 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:31 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:31 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:47 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:47 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:50 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:11:50 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:12:41 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:12:41 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:03 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:03 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:12 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:12 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:19 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:19 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:51 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:13:51 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:14:04 Asia/Taipei] PHP Warning:  include(mysql_connect.inc.php): failed to open stream: No such file or directory in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 09:14:04 Asia/Taipei] PHP Warning:  include(): Failed opening 'mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\adminerMember.php on line 10
+[12-Jun-2014 10:20:14 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TWAMPd\htdocs\cookiestore\adminer\adminerProduct.php on line 28
+[12-Jun-2014 10:20:19 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TWAMPd\htdocs\cookiestore\adminer\adminerProduct.php on line 28
+[12-Jun-2014 10:29:28 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TWAMPd\htdocs\cookiestore\adminer\adminerProduct.php on line 26
+[12-Jun-2014 10:57:55 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TWAMPd\htdocs\cookiestore\adminer\adminerProduct.php on line 37
+[12-Jun-2014 13:49:29 Asia/Taipei] PHP Warning:  include(file:///C|/TWAMPd/htdocs/mysql_connect.inc.php): failed to open stream: Invalid argument in C:\TWAMPd\htdocs\cookiestore\adminer\OrderView.php on line 19
+[12-Jun-2014 13:49:29 Asia/Taipei] PHP Warning:  include(): Failed opening 'file:///C|/TWAMPd/htdocs/mysql_connect.inc.php' for inclusion (include_path='.;') in C:\TWAMPd\htdocs\cookiestore\adminer\OrderView.php on line 19
+[12-Jun-2014 13:49:29 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\TWAMPd\htdocs\cookiestore\adminer\OrderView.php on line 22

@@ -1,0 +1,435 @@
+141216  9:51:05 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141216  9:51:05 [Note] InnoDB: The InnoDB memory heap is disabled
+141216  9:51:05 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141216  9:51:05 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141216  9:51:05 [Note] InnoDB: Not using CPU crc32 instructions
+141216  9:51:05 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141216  9:51:05 [Note] InnoDB: Completed initialization of buffer pool
+141216  9:51:06 [Note] InnoDB: Highest supported file format is Barracuda.
+141216  9:51:06 [Note] InnoDB: The log sequence numbers 25932995 and 25932995 in ibdata files do not match the log sequence number 25933005 in the ib_logfiles!
+141216  9:51:06 [Note] InnoDB: Database was not shutdown normally!
+141216  9:51:06 [Note] InnoDB: Starting crash recovery.
+141216  9:51:06 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141216  9:51:08 [Note] InnoDB: Restoring possible half-written data pages 
+141216  9:51:08 [Note] InnoDB: from the doublewrite buffer...
+141216  9:51:12 [Note] InnoDB: 128 rollback segment(s) are active.
+141216  9:51:12 [Note] InnoDB: Waiting for purge to start
+141216  9:51:12 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 25933005
+141216  9:51:12 [Note] Plugin 'FEEDBACK' is disabled.
+141216  9:51:12 [Note] Server socket created on IP: '0.0.0.0'.
+141216  9:51:15 [Note] Event Scheduler: Loaded 0 events
+141216  9:51:15 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141216 15:47:46 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141216 15:47:46 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+14121141216 15:47:46 [Note] InnoDB: The InnoDB yemor heap is disabled
+
+141216 1141216 15:47:46 [Note] InnoDB: Mutexe_ls and rw_locks use Windows interlocked 
+functions
+141216 15:47:164[216 15:47:46 [Note] InnoDB: Compressed tables u
+se zlib 1.2.3
+141216 15:47:4141N16 15:47:4ote] InnoDB: Not using C6U [Note] InnoDB: Not 
+using CPU crc32 instructions
+141216 15:47:46 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141216 15:47:46 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141216 15:47:46 [Note] InnoDB: Completed initialization of buffer pool
+141216 15:47:46 [Note] InnoDB: Completed initialization of buffer pool
+141216 15:47:46 [ERROR] InnoDB: .\ibdata1 can't be opened in read-write mode
+141216 15:47:46 [ERROR] InnoDB: The system tablespace must be writable!
+141216 15:47:46 [ERROR] Plugin 'InnoDB' init function returned error.
+141216 15:47:46 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+141216 15:47:46 [Note] Plugin 'FEEDBACK' is disabled.
+141216 15:47:46 [ERROR] Unknown/unsupported storage engine: InnoDB
+141216 15:47:46 [ERROR] Aborting
+
+141216 15:47:47 [Note] InnoDB: Highest supported file format is Barracuda.
+141216 15:47:47 [Note] InnoDB: The log sequence numbers 25932995 and 25932995 in ibdata files do not match the log sequence number 26188672 in the ib_logfiles!
+141216 15:47:47 [Note] InnoDB: Database was not shutdown normally!
+141216 15:47:47 [Note] InnoDB: Starting crash recovery.
+141216 15:47:47 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141216 15:47:47 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: Shutdown complete
+
+141216 15:47:52 [Note] InnoDB: Restoring possible half-written data pages 
+141216 15:47:52 [Note] InnoDB: from the doublewrite buffer...
+141216 15:47:54 [Note] InnoDB: 128 rollback segment(s) are active.
+141216 15:47:54 [Note] InnoDB: Waiting for purge to start
+141216 15:47:54 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 26188672
+141216 15:47:54 [Note] Plugin 'FEEDBACK' is disabled.
+141216 15:47:54 [Note] Server socket created on IP: '0.0.0.0'.
+141216 15:47:56 [Note] Event Scheduler: Loaded 0 events
+141216 15:47:56 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141217 15:31:16 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141217 15:31:16 [Note] InnoDB: The InnoDB memory heap is disabled
+141217 15:31:16 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141217 15:31:16 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141217 15:31:16 [Note] InnoDB: Not using CPU crc32 instructions
+141217 15:31:17 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141217 15:31:17 [Note] InnoDB: Completed initialization of buffer pool
+141217 15:31:17 [Note] InnoDB: Highest supported file format is Barracuda.
+141217 15:31:17 [Note] InnoDB: The log sequence numbers 25932995 and 25932995 in ibdata files do not match the log sequence number 26188961 in the ib_logfiles!
+141217 15:31:17 [Note] InnoDB: Database was not shutdown normally!
+141217 15:31:17 [Note] InnoDB: Starting crash recovery.
+141217 15:31:17 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141217 15:31:22 [Note] InnoDB: Restoring possible half-written data pages 
+141217 15:31:22 [Note] InnoDB: from the doublewrite buffer...
+141217 15:31:25 [Note] InnoDB: 128 rollback segment(s) are active.
+141217 15:31:26 [Note] InnoDB: Waiting for purge to start
+141217 15:31:26 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 26188961
+141217 15:31:26 [Note] Plugin 'FEEDBACK' is disabled.
+141217 15:31:26 [Note] Server socket created on IP: '0.0.0.0'.
+141217 15:31:29 [Note] Event Scheduler: Loaded 0 events
+141217 15:31:29 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141217 18:23:24 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: Normal shutdown
+
+141217 18:23:25 [Note] Event Scheduler: Purging the queue. 0 events
+141217 18:23:25 [Note] InnoDB: FTS optimize thread exiting.
+141217 18:23:25 [Note] InnoDB: Starting shutdown...
+2014-12-17 18:23:29 964  InnoDB: Assertion failure in thread 2404 in file os0sync.cc line 540
+InnoDB: Failing assertion: CloseHandle(event->handle)
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+141217 18:23:29 [ERROR] mysqld got exception 0x80000003 ;
+This could be because you hit a bug. It is also possible that this binary
+or one of the libraries it was linked against is corrupt, improperly built,
+or misconfigured. This error can also be caused by malfunctioning hardware.
+
+To report this bug, see http://kb.askmonty.org/en/reporting-bugs
+
+We will try our best to scrape up some info that will hopefully help
+diagnose the problem, but since we have already crashed, 
+something is definitely wrong and this may fail.
+
+Server version: 10.0.11-MariaDB
+key_buffer_size=67108864
+read_buffer_size=8388608
+max_used_connections=3
+max_threads=153
+thread_count=0
+It is possible that mysqld could use up to 
+key_buffer_size + (read_buffer_size + sort_buffer_size)*max_threads = 1790980 K  bytes of memory
+Hope that's ok; if not, decrease some variables in the equation.
+
+Thread pointer: 0x0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+mysqld.exe!my_parameter_handler()
+mysqld.exe!my_mb_ctype_mb()
+mysqld.exe!?prepare2@select_create@@UAEHXZ()
+mysqld.exe!?plugin_lock_by_name@@YAPAUst_plugin_int@@PAVTHD@@PBUst_mysql_lex_string@@H@Z()
+mysqld.exe!?add_plugin_options@@YAXPAUst_dynamic_array@@PAUst_mem_root@@@Z()
+mysqld.exe!?plugin_shutdown@@YAXXZ()
+mysqld.exe!?buffer@Buffered_logs@@QAEXW4loglevel@@PBD@Z()
+mysqld.exe!?unireg_end@@YAXXZ()
+mysqld.exe!?length@?$Bitmap@$0EA@@@QBEIXZ()
+mysqld.exe!win_pthread_mutex_trylock()
+mysqld.exe!my_mb_ctype_mb()
+mysqld.exe!my_mb_ctype_mb()
+kernel32.dll!GetModuleFileNameA()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+141222 12:51:31 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141222 12:51:31 [Note] InnoDB: The InnoDB memory heap is disabled
+141222 12:51:31 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141222 12:51:31 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141222 12:51:31 [Note] InnoDB: Not using CPU crc32 instructions
+141222 12:51:31 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141222 12:51:31 [Note] InnoDB: Completed initialization of buffer pool
+141222 12:51:34 [Note] InnoDB: Highest supported file format is Barracuda.
+141222 12:51:40 [Note] InnoDB: 128 rollback segment(s) are active.
+141222 12:51:40 [Note] InnoDB: Waiting for purge to start
+141222 12:51:40 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 27794211
+141222 12:51:40 [Note] Plugin 'FEEDBACK' is disabled.
+141222 12:51:40 [Note] Server socket created on IP: '0.0.0.0'.
+141222 12:51:43 [Note] Event Scheduler: Loaded 0 events
+141222 12:51:43 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141222 12:51:53 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141222 12:51:53 [Note] InnoDB: The InnoDB memory heap is disabled
+141222 12:51:53 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141222 12:51:53 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141222 12:51:53 [Note] InnoDB: Not using CPU crc32 instructions
+141222 12:51:53 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141222 12:51:53 [Note] InnoDB: Completed initialization of buffer pool
+141222 12:51:53 [ERROR] InnoDB: .\ibdata1 can't be opened in read-write mode
+141222 12:51:53 [ERROR] InnoDB: The system tablespace must be writable!
+141222 12:51:53 [ERROR] Plugin 'InnoDB' init function returned error.
+141222 12:51:53 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+141222 12:51:53 [Note] Plugin 'FEEDBACK' is disabled.
+141222 12:51:53 [ERROR] Unknown/unsupported storage engine: InnoDB
+141222 12:51:53 [ERROR] Aborting
+
+141222 12:51:53 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: Shutdown complete
+
+141222 17:58:39 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141222 17:58:39 [Note] InnoDB: The InnoDB memory heap is disabled
+141222 17:58:39 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141222 17:58:39 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141222 17:58:39 [Note] InnoDB: Not using CPU crc32 instructions
+141222 17:58:39 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141222 17:58:39 [Note] InnoDB: Completed initialization of buffer pool
+141222 17:58:40 [Note] InnoDB: Highest supported file format is Barracuda.
+141222 17:58:40 [Note] InnoDB: The log sequence numbers 27794211 and 27794211 in ibdata files do not match the log sequence number 27794773 in the ib_logfiles!
+141222 17:58:40 [Note] InnoDB: Database was not shutdown normally!
+141222 17:58:40 [Note] InnoDB: Starting crash recovery.
+141222 17:58:40 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141222 17:58:43 [Note] InnoDB: Restoring possible half-written data pages 
+141222 17:58:43 [Note] InnoDB: from the doublewrite buffer...
+141222 17:58:49 [Note] InnoDB: 128 rollback segment(s) are active.
+141222 17:58:49 [Note] InnoDB: Waiting for purge to start
+141222 17:58:49 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 27794773
+141222 17:58:49 [Note] Plugin 'FEEDBACK' is disabled.
+141222 17:58:49 [Note] Server socket created on IP: '0.0.0.0'.
+141222 17:58:51 [Note] Event Scheduler: Loaded 0 events
+141222 17:58:51 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141222 17:58:53 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: Normal shutdown
+
+141222 17:58:54 [Note] Event Scheduler: Purging the queue. 0 events
+141222 17:58:54 [Note] InnoDB: FTS optimize thread exiting.
+141222 17:58:54 [Note] InnoDB: Starting shutdown...
+2014-12-22 17:58:56 854  InnoDB: Assertion failure in thread 2132 in file os0sync.cc line 540
+InnoDB: Failing assertion: CloseHandle(event->handle)
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+141222 17:58:56 [ERROR] mysqld got exception 0x80000003 ;
+This could be because you hit a bug. It is also possible that this binary
+or one of the libraries it was linked against is corrupt, improperly built,
+or misconfigured. This error can also be caused by malfunctioning hardware.
+
+To report this bug, see http://kb.askmonty.org/en/reporting-bugs
+
+We will try our best to scrape up some info that will hopefully help
+diagnose the problem, but since we have already crashed, 
+something is definitely wrong and this may fail.
+
+Server version: 10.0.11-MariaDB
+key_buffer_size=67108864
+read_buffer_size=8388608
+max_used_connections=0
+max_threads=153
+thread_count=0
+It is possible that mysqld could use up to 
+key_buffer_size + (read_buffer_size + sort_buffer_size)*max_threads = 1790980 K  bytes of memory
+Hope that's ok; if not, decrease some variables in the equation.
+
+Thread pointer: 0x0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+mysqld.exe!my_parameter_handler()
+mysqld.exe!my_mb_ctype_mb()
+mysqld.exe!?functype@Item_func_now_local@@UBE?AW4Functype@Item_func@@XZ()
+mysqld.exe!?functype@Item_func_now_local@@UBE?AW4Functype@Item_func@@XZ()
+mysqld.exe!?plugin_lock_by_name@@YAPAUst_plugin_int@@PAVTHD@@PBUst_mysql_lex_string@@H@Z()
+mysqld.exe!?add_plugin_options@@YAXPAUst_dynamic_array@@PAUst_mem_root@@@Z()
+mysqld.exe!?plugin_shutdown@@YAXXZ()
+mysqld.exe!?buffer@Buffered_logs@@QAEXW4loglevel@@PBD@Z()
+mysqld.exe!?unireg_end@@YAXXZ()
+mysqld.exe!?length@?$Bitmap@$0EA@@@QBEIXZ()
+mysqld.exe!win_pthread_mutex_trylock()
+mysqld.exe!my_mb_ctype_mb()
+mysqld.exe!my_mb_ctype_mb()
+kernel32.dll!GetModuleFileNameA()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+141222 17:58:58 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141222 17:58:58 [Note] InnoDB: The InnoDB memory heap is disabled
+141222 17:58:58 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141222 17:58:58 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141222 17:58:58 [Note] InnoDB: Not using CPU crc32 instructions
+141222 17:58:58 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141222 17:58:59 [Note] InnoDB: Completed initialization of buffer pool
+141222 17:58:59 [Note] InnoDB: Highest supported file format is Barracuda.
+141222 17:59:00 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141222 17:59:00 [Note] InnoDB: The InnoDB memory heap is disabled
+141222 17:59:00 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141222 17:59:00 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141222 17:59:00 [Note] InnoDB: Not using CPU crc32 instructions
+141222 17:59:00 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141222 17:59:00 [Note] InnoDB: 128 rollback segment(s) are active.
+141222 17:59:00 [Note] InnoDB: Completed initialization of buffer pool
+141222 17:59:00 [ERROR] InnoDB: .\ibdata1 can't be opened in read-write mode
+141222 17:59:00 [ERROR] InnoDB: The system tablespace must be writable!
+141222 17:59:00 [ERROR] Plugin 'InnoDB' init function returned error.
+141222 17:59:00 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+141222 17:59:00 [Note] Plugin 'FEEDBACK' is disabled.
+141222 17:59:00 [Note] InnoDB: Waiting for purge to start
+141222 17:59:00 [ERROR] Unknown/unsupported storage engine: InnoDB
+141222 17:59:00 [ERROR] Aborting
+
+141222 17:59:01 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 27794783
+141222 17:59:01 [Note] Plugin 'FEEDBACK' is disabled.
+141222 17:59:01 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: Shutdown complete
+
+141222 17:59:01 [Note] Server socket created on IP: '0.0.0.0'.
+141222 17:59:01 [Note] Event Scheduler: Loaded 0 events
+141222 17:59:01 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141222 17:59:27 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141222 17:59:27 [Note] InnoDB: The InnoDB memory heap is disabled
+141222 17:59:27 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141222 17:59:27 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141222 17:59:27 [Note] InnoDB: Not using CPU crc32 instructions
+141222 17:59:27 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141222 17:59:27 [Note] InnoDB: Completed initialization of buffer pool
+141222 17:59:27 [Note] InnoDB: Highest supported file format is Barracuda.
+141222 17:59:27 [Note] InnoDB: The log sequence numbers 27794783 and 27794783 in ibdata files do not match the log sequence number 27794793 in the ib_logfiles!
+141222 17:59:27 [Note] InnoDB: Database was not shutdown normally!
+141222 17:59:27 [Note] InnoDB: Starting crash recovery.
+141222 17:59:27 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141222 17:59:28 [Note] InnoDB: Restoring possible half-written data pages 
+141222 17:59:28 [Note] InnoDB: from the doublewrite buffer...
+141222 17:59:30 [Note] InnoDB: 128 rollback segment(s) are active.
+141222 17:59:30 [Note] InnoDB: Waiting for purge to start
+141222 17:59:30 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 27794793
+141222 17:59:30 [Note] Plugin 'FEEDBACK' is disabled.
+141222 17:59:30 [Note] Server socket created on IP: '0.0.0.0'.
+141222 17:59:30 [Note] Event Scheduler: Loaded 0 events
+141222 17:59:30 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141222 18:57:14 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: Normal shutdown
+
+141222 18:57:15 [Note] Event Scheduler: Purging the queue. 0 events
+141222 18:57:16 [Note] InnoDB: FTS optimize thread exiting.
+141222 18:57:16 [Note] InnoDB: Starting shutdown...
+2014-12-22 18:57:18 590  InnoDB: Assertion failure in thread 1424 in file os0sync.cc line 540
+InnoDB: Failing assertion: CloseHandle(event->handle)
+InnoDB: We intentionally generate a memory trap.
+InnoDB: Submit a detailed bug report to http://bugs.mysql.com.
+InnoDB: If you get repeated assertion failures or crashes, even
+InnoDB: immediately after the mysqld startup, there may be
+InnoDB: corruption in the InnoDB tablespace. Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: about forcing recovery.
+141222 18:57:18 [ERROR] mysqld got exception 0x80000003 ;
+This could be because you hit a bug. It is also possible that this binary
+or one of the libraries it was linked against is corrupt, improperly built,
+or misconfigured. This error can also be caused by malfunctioning hardware.
+
+To report this bug, see http://kb.askmonty.org/en/reporting-bugs
+
+We will try our best to scrape up some info that will hopefully help
+diagnose the problem, but since we have already crashed, 
+something is definitely wrong and this may fail.
+
+Server version: 10.0.11-MariaDB
+key_buffer_size=67108864
+read_buffer_size=8388608
+max_used_connections=2
+max_threads=153
+thread_count=0
+It is possible that mysqld could use up to 
+key_buffer_size + (read_buffer_size + sort_buffer_size)*max_threads = 1790980 K  bytes of memory
+Hope that's ok; if not, decrease some variables in the equation.
+
+Thread pointer: 0x0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+mysqld.exe!my_parameter_handler()
+mysqld.exe!my_mb_ctype_mb()
+mysqld.exe!pthread_dummy()
+mysqld.exe!?plugin_lock_by_name@@YAPAUst_plugin_int@@PAVTHD@@PBUst_mysql_lex_string@@H@Z()
+mysqld.exe!?add_plugin_options@@YAXPAUst_dynamic_array@@PAUst_mem_root@@@Z()
+mysqld.exe!?plugin_shutdown@@YAXXZ()
+mysqld.exe!?buffer@Buffered_logs@@QAEXW4loglevel@@PBD@Z()
+mysqld.exe!?unireg_end@@YAXXZ()
+mysqld.exe!?length@?$Bitmap@$0EA@@@QBEIXZ()
+mysqld.exe!win_pthread_mutex_trylock()
+mysqld.exe!my_mb_ctype_mb()
+mysqld.exe!my_mb_ctype_mb()
+kernel32.dll!GetModuleFileNameA()
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+141223 12:13:42 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141223 12:13:42 [Note] InnoDB: The InnoDB memory heap is disabled
+141223 12:13:42 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141223 12:13:42 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141223 12:13:42 [Note] InnoDB: Not using CPU crc32 instructions
+141223 12:13:42 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141223 12:13:42 [Note] InnoDB: Completed initialization of buffer pool
+141223 12:13:42 [Note] InnoDB: Highest supported file format is Barracuda.
+141223 12:13:49 [Note] InnoDB: 128 rollback segment(s) are active.
+141223 12:13:49 [Note] InnoDB: Waiting for purge to start
+141223 12:13:49 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 27898489
+141223 12:13:49 [Note] Plugin 'FEEDBACK' is disabled.
+141223 12:13:49 [Note] Server socket created on IP: '0.0.0.0'.
+141223 12:13:58 [Note] Event Scheduler: Loaded 0 events
+141223 12:13:58 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141223 15:24:55 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141223 15:24:55 [Note] InnoDB: The InnoDB memory heap is disabled
+141223 15:24:55 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141223 15:24:55 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141223 15:24:55 [Note] InnoDB: Not using CPU crc32 instructions
+141223 15:24:55 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141223 15:24:55 [Note] InnoDB: Completed initialization of buffer pool
+141223 15:24:56 [Note] InnoDB: Highest supported file format is Barracuda.
+141223 15:24:56 [Note] InnoDB: The log sequence numbers 27898489 and 27898489 in ibdata files do not match the log sequence number 28276276 in the ib_logfiles!
+141223 15:24:56 [Note] InnoDB: Database was not shutdown normally!
+141223 15:24:56 [Note] InnoDB: Starting crash recovery.
+141223 15:24:56 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141223 15:25:00 [Note] InnoDB: Restoring possible half-written data pages 
+141223 15:25:00 [Note] InnoDB: from the doublewrite buffer...
+141223 15:25:03 [Note] InnoDB: 128 rollback segment(s) are active.
+141223 15:25:03 [Note] InnoDB: Waiting for purge to start
+141223 15:25:03 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 28276276
+141223 15:25:03 [Note] Plugin 'FEEDBACK' is disabled.
+141223 15:25:04 [Note] Server socket created on IP: '0.0.0.0'.
+141223 15:25:06 [Note] Event Scheduler: Loaded 0 events
+141223 15:25:06 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+141227 20:03:13 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141227 20:03:13 [Note] InnoDB: The InnoDB memory heap is disabled
+141227 20:03:13 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141227 20:03:13 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141227 20:03:13 [Note] InnoDB: Not using CPU crc32 instructions
+141227 20:03:13 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141227 20:03:13 [Note] InnoDB: Completed initialization of buffer pool
+141227 20:03:13 [Note] InnoDB: Highest supported file format is Barracuda.
+141227 20:03:13 [Note] InnoDB: The log sequence numbers 27898489 and 27898489 in ibdata files do not match the log sequence number 28319102 in the ib_logfiles!
+141227 20:03:13 [Note] InnoDB: Database was not shutdown normally!
+141227 20:03:13 [Note] InnoDB: Starting crash recovery.
+141227 20:03:13 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141227 20:03:17 [Note] InnoDB: Restoring possible half-written data pages 
+141227 20:03:17 [Note] InnoDB: from the doublewrite buffer...
+141227 20:03:20 [Note] InnoDB: 128 rollback segment(s) are active.
+141227 20:03:21 [Note] InnoDB: Waiting for purge to start
+141227 20:03:21 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 28319102
+141227 20:03:21 [Note] Plugin 'FEEDBACK' is disabled.
+141227 20:03:21 [Note] Server socket created on IP: '0.0.0.0'.
+141227 20:30:09 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+141227 20:30:09 [Note] InnoDB: The InnoDB memory heap is disabled
+141227 20:30:09 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141227 20:30:09 [Note] InnoDB: Compressed tables use zlib 1.2.3
+141227 20:30:09 [Note] InnoDB: Not using CPU crc32 instructions
+141227 20:30:09 [Note] InnoDB: Initializing buffer pool, size = 250.0M
+141227 20:30:09 [Note] InnoDB: Completed initialization of buffer pool
+141227 20:30:10 [Note] InnoDB: Highest supported file format is Barracuda.
+141227 20:30:10 [Note] InnoDB: The log sequence numbers 27898489 and 27898489 in ibdata files do not match the log sequence number 28319464 in the ib_logfiles!
+141227 20:30:10 [Note] InnoDB: Database was not shutdown normally!
+141227 20:30:10 [Note] InnoDB: Starting crash recovery.
+141227 20:30:10 [Note] InnoDB: Reading tablespace information from the .ibd files...
+141227 20:30:13 [Note] InnoDB: Restoring possible half-written data pages 
+141227 20:30:13 [Note] InnoDB: from the doublewrite buffer...
+141227 20:30:15 [Note] InnoDB: 128 rollback segment(s) are active.
+141227 20:30:15 [Note] InnoDB: Waiting for purge to start
+141227 20:30:15 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.17-65.0 started; log sequence number 28319464
+141227 20:30:15 [Note] Plugin 'FEEDBACK' is disabled.
+141227 20:30:16 [Note] Server socket created on IP: '0.0.0.0'.
+141227 20:30:17 [Note] Event Scheduler: Loaded 0 events
+141227 20:30:17 [Note] G:\TWAMPd\ap\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.0.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

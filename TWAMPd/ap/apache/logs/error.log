@@ -1,0 +1,751 @@
+[Sat May 31 12:18:17.851987 2014] [ssl:warn] [pid 3864:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat May 31 12:18:18.131003 2014] [ssl:warn] [pid 3864:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 31 12:18:18.238009 2014] [mpm_winnt:notice] [pid 3864:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat May 31 12:18:18.238009 2014] [mpm_winnt:notice] [pid 3864:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat May 31 12:18:18.238009 2014] [core:notice] [pid 3864:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Sat May 31 12:18:18.241009 2014] [mpm_winnt:notice] [pid 3864:tid 624] AH00418: Parent: Created child process 5012
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat May 31 12:18:19.006053 2014] [ssl:warn] [pid 5012:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat May 31 12:18:19.282069 2014] [ssl:warn] [pid 5012:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 31 12:18:19.306070 2014] [mpm_winnt:notice] [pid 5012:tid 636] AH00354: Child: Starting 64 worker threads.
+[Sat May 31 17:46:19.049084 2014] [mpm_winnt:notice] [pid 3864:tid 624] AH00428: Parent: child process 5012 exited with status 1073807364 -- Restarting.
+[Mon Jun 02 19:36:40.201468 2014] [ssl:warn] [pid 2552:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 19:36:40.235470 2014] [core:warn] [pid 2552:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 02 19:36:40.475483 2014] [ssl:warn] [pid 2552:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 19:36:40.721497 2014] [mpm_winnt:notice] [pid 2552:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Jun 02 19:36:40.721497 2014] [mpm_winnt:notice] [pid 2552:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Jun 02 19:36:40.722497 2014] [core:notice] [pid 2552:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Mon Jun 02 19:36:40.724497 2014] [mpm_winnt:notice] [pid 2552:tid 624] AH00418: Parent: Created child process 5424
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 19:36:41.261528 2014] [ssl:warn] [pid 5424:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 19:36:41.534544 2014] [ssl:warn] [pid 5424:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 19:36:41.557545 2014] [mpm_winnt:notice] [pid 5424:tid 636] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 02 20:03:03.491027 2014] [mpm_winnt:notice] [pid 2552:tid 624] AH00428: Parent: child process 5424 exited with status 1073807364 -- Restarting.
+[Mon Jun 02 20:06:23.053380 2014] [ssl:warn] [pid 3396:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 20:06:23.088382 2014] [core:warn] [pid 3396:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 02 20:06:23.327395 2014] [ssl:warn] [pid 3396:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 20:06:23.466403 2014] [mpm_winnt:notice] [pid 3396:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Jun 02 20:06:23.467403 2014] [mpm_winnt:notice] [pid 3396:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Jun 02 20:06:23.467403 2014] [core:notice] [pid 3396:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Mon Jun 02 20:06:23.469403 2014] [mpm_winnt:notice] [pid 3396:tid 624] AH00418: Parent: Created child process 6480
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 20:06:24.005434 2014] [ssl:warn] [pid 6480:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 20:06:24.277450 2014] [ssl:warn] [pid 6480:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 20:06:24.299451 2014] [mpm_winnt:notice] [pid 6480:tid 636] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 02 21:57:49.281810 2014] [mpm_winnt:notice] [pid 3396:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 02 21:57:51.281924 2014] [mpm_winnt:notice] [pid 6480:tid 636] AH00364: Child: All worker threads have exited.
+[Mon Jun 02 21:57:51.305926 2014] [mpm_winnt:notice] [pid 3396:tid 624] AH00430: Parent: Child process 6480 exited successfully.
+[Mon Jun 02 22:00:54.170385 2014] [ssl:warn] [pid 6608:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 22:00:54.446401 2014] [ssl:warn] [pid 6608:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 22:00:54.476403 2014] [mpm_winnt:notice] [pid 6608:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Jun 02 22:00:54.476403 2014] [mpm_winnt:notice] [pid 6608:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Jun 02 22:00:54.476403 2014] [core:notice] [pid 6608:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Mon Jun 02 22:00:54.479403 2014] [mpm_winnt:notice] [pid 6608:tid 624] AH00418: Parent: Created child process 5436
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 22:00:55.041435 2014] [ssl:warn] [pid 5436:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 22:00:55.314451 2014] [ssl:warn] [pid 5436:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 22:00:55.336452 2014] [mpm_winnt:notice] [pid 5436:tid 636] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 02 22:05:21.723688 2014] [autoindex:error] [pid 5436:tid 1324] [client 127.0.0.1:53542] AH01276: Cannot serve directory C:/TWAMPd/htdocs/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Mon Jun 02 22:05:22.419728 2014] [autoindex:error] [pid 5436:tid 1324] [client 127.0.0.1:53542] AH01276: Cannot serve directory C:/TWAMPd/htdocs/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Mon Jun 02 22:18:48.851853 2014] [mpm_winnt:notice] [pid 6608:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 02 22:18:50.851968 2014] [mpm_winnt:notice] [pid 5436:tid 636] AH00364: Child: All worker threads have exited.
+[Mon Jun 02 22:18:50.869969 2014] [mpm_winnt:notice] [pid 6608:tid 624] AH00430: Parent: Child process 5436 exited successfully.
+[Mon Jun 02 22:18:54.640184 2014] [ssl:warn] [pid 7444:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 22:18:54.926201 2014] [ssl:warn] [pid 7444:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 22:18:54.950202 2014] [mpm_winnt:notice] [pid 7444:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Jun 02 22:18:54.950202 2014] [mpm_winnt:notice] [pid 7444:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Jun 02 22:18:54.950202 2014] [core:notice] [pid 7444:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Mon Jun 02 22:18:54.953202 2014] [mpm_winnt:notice] [pid 7444:tid 624] AH00418: Parent: Created child process 4380
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 22:18:55.508234 2014] [ssl:warn] [pid 4380:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 02 22:18:55.785250 2014] [ssl:warn] [pid 4380:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 02 22:18:55.807251 2014] [mpm_winnt:notice] [pid 4380:tid 636] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 02 22:19:32.207333 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:19:32.827369 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:19:33.500407 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:19:33.860428 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:19:34.043438 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:19:34.227449 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:19:34.427460 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:19:45.129072 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:54215] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Mon Jun 02 22:47:07.650019 2014] [:error] [pid 4380:tid 1316] [client 127.0.0.1:54718] script 'C:/TWAMPd/htdocs/twamp/mysql_fetch_row.php' not found or unable to stat, referer: http://127.0.0.1/twamp/index.php
+[Tue Jun 03 02:50:56.971768 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:58992] script 'C:/TWAMPd/htdocs/twamp/index.php' not found or unable to stat
+[Tue Jun 03 02:51:30.767701 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:58993] script 'C:/TWAMPd/htdocs/twamp/product.php' not found or unable to stat, referer: http://127.0.0.1/twamp/index.php
+[Tue Jun 03 02:52:01.030432 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:59001] script 'C:/TWAMPd/htdocs/twamp/product.php' not found or unable to stat, referer: http://127.0.0.1/twamp/index.php
+[Tue Jun 03 02:53:36.656902 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:59028] script 'C:/TWAMPd/htdocs/cookiestore/product.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.php
+[Tue Jun 03 02:56:11.293747 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:59049] script 'C:/TWAMPd/htdocs/cookiestore/member.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.php
+[Tue Jun 03 02:56:35.517132 2014] [:error] [pid 4380:tid 1308] [client 127.0.0.1:59050] script 'C:/TWAMPd/htdocs/cookiestore/print.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.php
+[Tue Jun 03 03:14:14.285690 2014] [mpm_winnt:notice] [pid 7444:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 03 03:14:16.285805 2014] [mpm_winnt:notice] [pid 4380:tid 636] AH00364: Child: All worker threads have exited.
+[Tue Jun 03 03:14:16.340808 2014] [mpm_winnt:notice] [pid 7444:tid 624] AH00430: Parent: Child process 4380 exited successfully.
+[Tue Jun 03 03:19:16.020948 2014] [ssl:warn] [pid 7984:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 03:19:16.292964 2014] [ssl:warn] [pid 7984:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 03:19:16.379969 2014] [mpm_winnt:notice] [pid 7984:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Jun 03 03:19:16.379969 2014] [mpm_winnt:notice] [pid 7984:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Jun 03 03:19:16.379969 2014] [core:notice] [pid 7984:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Tue Jun 03 03:19:16.382969 2014] [mpm_winnt:notice] [pid 7984:tid 624] AH00418: Parent: Created child process 8896
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 03:19:16.926000 2014] [ssl:warn] [pid 8896:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 03:19:17.199016 2014] [ssl:warn] [pid 8896:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 03:19:17.220017 2014] [mpm_winnt:notice] [pid 8896:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 03 03:19:37.072153 2014] [mpm_winnt:notice] [pid 7984:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 03 03:19:39.072267 2014] [mpm_winnt:notice] [pid 8896:tid 636] AH00364: Child: All worker threads have exited.
+[Tue Jun 03 03:19:39.090268 2014] [mpm_winnt:notice] [pid 7984:tid 624] AH00430: Parent: Child process 8896 exited successfully.
+[Tue Jun 03 03:19:42.379456 2014] [ssl:warn] [pid 7360:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 03:19:42.659472 2014] [ssl:warn] [pid 7360:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 03:19:42.679473 2014] [mpm_winnt:notice] [pid 7360:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Jun 03 03:19:42.679473 2014] [mpm_winnt:notice] [pid 7360:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Jun 03 03:19:42.679473 2014] [core:notice] [pid 7360:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Tue Jun 03 03:19:42.681473 2014] [mpm_winnt:notice] [pid 7360:tid 624] AH00418: Parent: Created child process 2916
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 03:19:43.233505 2014] [ssl:warn] [pid 2916:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 03:19:43.511521 2014] [ssl:warn] [pid 2916:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 03:19:43.532522 2014] [mpm_winnt:notice] [pid 2916:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 03 04:34:06.392783 2014] [mpm_winnt:notice] [pid 7360:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 03 04:34:08.392897 2014] [mpm_winnt:notice] [pid 2916:tid 636] AH00364: Child: All worker threads have exited.
+[Tue Jun 03 04:34:08.430900 2014] [mpm_winnt:notice] [pid 7360:tid 624] AH00430: Parent: Child process 2916 exited successfully.
+[Tue Jun 03 04:34:12.145112 2014] [ssl:warn] [pid 7584:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 04:34:12.421128 2014] [ssl:warn] [pid 7584:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 04:34:12.442129 2014] [mpm_winnt:notice] [pid 7584:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Jun 03 04:34:12.442129 2014] [mpm_winnt:notice] [pid 7584:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Jun 03 04:34:12.442129 2014] [core:notice] [pid 7584:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Tue Jun 03 04:34:12.445129 2014] [mpm_winnt:notice] [pid 7584:tid 624] AH00418: Parent: Created child process 2204
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 04:34:12.984160 2014] [ssl:warn] [pid 2204:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 04:34:13.256176 2014] [ssl:warn] [pid 2204:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 04:34:13.279177 2014] [mpm_winnt:notice] [pid 2204:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 03 04:35:52.813870 2014] [mpm_winnt:notice] [pid 7584:tid 624] AH00428: Parent: child process 2204 exited with status 1073807364 -- Restarting.
+[Tue Jun 03 05:42:20.935097 2014] [ssl:warn] [pid 2928:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 05:42:20.968098 2014] [core:warn] [pid 2928:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jun 03 05:42:21.207112 2014] [ssl:warn] [pid 2928:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 05:42:21.341120 2014] [mpm_winnt:notice] [pid 2928:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Jun 03 05:42:21.341120 2014] [mpm_winnt:notice] [pid 2928:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Jun 03 05:42:21.341120 2014] [core:notice] [pid 2928:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Tue Jun 03 05:42:21.343120 2014] [mpm_winnt:notice] [pid 2928:tid 624] AH00418: Parent: Created child process 5872
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 05:42:21.883151 2014] [ssl:warn] [pid 5872:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 05:42:22.155166 2014] [ssl:warn] [pid 5872:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 05:42:22.177168 2014] [mpm_winnt:notice] [pid 5872:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 03 05:42:27.084448 2014] [mpm_winnt:notice] [pid 2928:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 03 05:42:29.085563 2014] [mpm_winnt:notice] [pid 5872:tid 636] AH00364: Child: All worker threads have exited.
+[Tue Jun 03 05:42:29.120565 2014] [mpm_winnt:notice] [pid 2928:tid 624] AH00430: Parent: Child process 5872 exited successfully.
+[Tue Jun 03 05:42:35.948955 2014] [ssl:warn] [pid 5296:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 05:42:36.223971 2014] [ssl:warn] [pid 5296:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 05:42:36.245972 2014] [mpm_winnt:notice] [pid 5296:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Jun 03 05:42:36.245972 2014] [mpm_winnt:notice] [pid 5296:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Jun 03 05:42:36.245972 2014] [core:notice] [pid 5296:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Tue Jun 03 05:42:36.247972 2014] [mpm_winnt:notice] [pid 5296:tid 624] AH00418: Parent: Created child process 6996
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 05:42:36.785003 2014] [ssl:warn] [pid 6996:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 05:42:37.057019 2014] [ssl:warn] [pid 6996:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 05:42:37.080020 2014] [mpm_winnt:notice] [pid 6996:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 03 05:44:10.176345 2014] [mpm_winnt:notice] [pid 5296:tid 624] AH00428: Parent: child process 6996 exited with status 1073807364 -- Restarting.
+[Tue Jun 03 17:33:02.148933 2014] [ssl:warn] [pid 5260:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 17:33:02.182935 2014] [core:warn] [pid 5260:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jun 03 17:33:02.422949 2014] [ssl:warn] [pid 5260:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 17:33:02.561957 2014] [mpm_winnt:notice] [pid 5260:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Jun 03 17:33:02.561957 2014] [mpm_winnt:notice] [pid 5260:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Jun 03 17:33:02.561957 2014] [core:notice] [pid 5260:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Tue Jun 03 17:33:02.564957 2014] [mpm_winnt:notice] [pid 5260:tid 624] AH00418: Parent: Created child process 7512
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 17:33:03.101987 2014] [ssl:warn] [pid 7512:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 03 17:33:03.375003 2014] [ssl:warn] [pid 7512:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 03 17:33:03.399004 2014] [mpm_winnt:notice] [pid 7512:tid 636] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 04 00:29:19.852704 2014] [:error] [pid 7512:tid 1320] [client 127.0.0.1:60842] script 'C:/TWAMPd/htdocs/registration.php' not found or unable to stat
+[Wed Jun 04 00:29:29.317246 2014] [:error] [pid 7512:tid 1312] [client 127.0.0.1:60843] script 'C:/TWAMPd/htdocs/registration.php' not found or unable to stat
+[Wed Jun 04 00:29:29.757271 2014] [:error] [pid 7512:tid 1312] [client 127.0.0.1:60843] script 'C:/TWAMPd/htdocs/registration.php' not found or unable to stat
+[Wed Jun 04 03:59:17.364241 2014] [:error] [pid 7512:tid 1312] [client 127.0.0.1:49429] script 'C:/TWAMPd/htdocs/cookiestore/demo/reg_ok.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/demo/register_main.php
+[Wed Jun 04 04:08:57.031396 2014] [mpm_winnt:notice] [pid 5260:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jun 04 04:08:59.031510 2014] [mpm_winnt:notice] [pid 7512:tid 636] AH00364: Child: All worker threads have exited.
+[Wed Jun 04 04:08:59.085513 2014] [mpm_winnt:notice] [pid 5260:tid 624] AH00430: Parent: Child process 7512 exited successfully.
+[Fri Jun 06 19:01:02.618871 2014] [ssl:warn] [pid 6960:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Fri Jun 06 19:01:02.891887 2014] [ssl:warn] [pid 6960:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 06 19:01:03.132901 2014] [mpm_winnt:notice] [pid 6960:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Fri Jun 06 19:01:03.132901 2014] [mpm_winnt:notice] [pid 6960:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Fri Jun 06 19:01:03.132901 2014] [core:notice] [pid 6960:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Fri Jun 06 19:01:03.134901 2014] [mpm_winnt:notice] [pid 6960:tid 624] AH00418: Parent: Created child process 6212
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Fri Jun 06 19:01:03.675932 2014] [ssl:warn] [pid 6212:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Fri Jun 06 19:01:03.945947 2014] [ssl:warn] [pid 6212:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 06 19:01:03.968948 2014] [mpm_winnt:notice] [pid 6212:tid 636] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 06 20:21:37.337401 2014] [:error] [pid 6212:tid 1348] [client 127.0.0.1:52244] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/p_search.php
+[Fri Jun 06 20:21:39.716537 2014] [:error] [pid 6212:tid 1348] [client 127.0.0.1:52244] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/p_search.php
+[Fri Jun 06 20:30:06.357516 2014] [:error] [pid 6212:tid 1308] [client 127.0.0.1:52410] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/c_search.php
+[Fri Jun 06 20:32:53.824094 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:52584] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.html
+[Fri Jun 06 20:32:56.326237 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:52584] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.html
+[Fri Jun 06 20:33:06.917843 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:52585] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.html
+[Fri Jun 06 20:37:43.238648 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:52635] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 20:37:45.863798 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:52635] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/p_search.php
+[Fri Jun 06 20:55:59.443347 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:52940] script 'C:/TWAMPd/htdocs/cookiestore/p_search.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/productSearch.php
+[Fri Jun 06 23:25:20.755905 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:56678] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/login_chk.php
+[Fri Jun 06 23:27:45.116162 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:56772] script 'C:/TWAMPd/htdocs/cookiestore/logout.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:27:50.426465 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:56772] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:27:57.050844 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:56772] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:28:27.172567 2014] [:error] [pid 6212:tid 1308] [client 127.0.0.1:56823] script 'C:/TWAMPd/htdocs/cookiestore/logout.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:28:43.122479 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:56819] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:28:44.990586 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:56819] script 'C:/TWAMPd/htdocs/cookiestore/delete.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:28:46.008644 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:56819] script 'C:/TWAMPd/htdocs/cookiestore/logout.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:29:01.429527 2014] [:error] [pid 6212:tid 1332] [client 127.0.0.1:56915] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Fri Jun 06 23:29:29.037106 2014] [:error] [pid 6212:tid 1340] [client 127.0.0.1:56959] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Sat Jun 07 00:15:09.358843 2014] [:error] [pid 6212:tid 1308] [client 127.0.0.1:57575] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/registration_chk.php
+[Sat Jun 07 00:15:20.367473 2014] [:error] [pid 6212:tid 1308] [client 127.0.0.1:57579] script 'C:/TWAMPd/htdocs/cookiestore/index.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/registration_chk.php
+[Sat Jun 07 01:19:18.628009 2014] [core:error] [pid 6212:tid 1316] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:61413] AH00127: Cannot map GET /cookiestore/%3Cscript HTTP/1.1 to file, referer: http://127.0.0.1/cookiestore/logout.php
+[Sat Jun 07 01:19:21.334163 2014] [core:error] [pid 6212:tid 1316] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:61413] AH00127: Cannot map GET /cookiestore/%3Cscript HTTP/1.1 to file, referer: http://127.0.0.1/cookiestore/logout.php
+[Sat Jun 07 01:19:23.157268 2014] [core:error] [pid 6212:tid 1316] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:61413] AH00127: Cannot map GET /cookiestore/%3Cscript HTTP/1.1 to file, referer: http://127.0.0.1/cookiestore/logout.php
+[Sat Jun 07 01:57:09.000867 2014] [:error] [pid 6212:tid 1284] [client 127.0.0.1:63621] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Sat Jun 07 14:36:06.994093 2014] [:error] [pid 6212:tid 1292] [client 127.0.0.1:65280] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer.php
+[Sat Jun 07 14:37:55.854320 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:65380] script 'C:/TWAMPd/htdocs/cookiestore/update.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer.php
+[Sat Jun 07 14:37:57.888436 2014] [:error] [pid 6212:tid 1316] [client 127.0.0.1:65380] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer.php
+[Sat Jun 07 14:52:56.717660 2014] [ssl:warn] [pid 2540:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 07 14:52:56.756662 2014] [core:warn] [pid 2540:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 07 14:52:56.997676 2014] [ssl:warn] [pid 2540:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 07 14:52:57.143685 2014] [mpm_winnt:notice] [pid 2540:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat Jun 07 14:52:57.143685 2014] [mpm_winnt:notice] [pid 2540:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat Jun 07 14:52:57.143685 2014] [core:notice] [pid 2540:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Sat Jun 07 14:52:57.146685 2014] [mpm_winnt:notice] [pid 2540:tid 624] AH00418: Parent: Created child process 6332
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 07 14:52:57.694716 2014] [ssl:warn] [pid 6332:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 07 14:52:57.970732 2014] [ssl:warn] [pid 6332:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 07 14:52:57.994733 2014] [mpm_winnt:notice] [pid 6332:tid 636] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 07 15:16:39.575043 2014] [:error] [pid 6332:tid 1332] [client 127.0.0.1:50878] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer.php
+[Sat Jun 07 16:09:56.905920 2014] [mpm_winnt:notice] [pid 2540:tid 624] AH00428: Parent: child process 6332 exited with status 1073807364 -- Restarting.
+[Sun Jun 08 23:35:07.568098 2014] [ssl:warn] [pid 6496:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 08 23:35:07.602100 2014] [core:warn] [pid 6496:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 08 23:35:07.842114 2014] [ssl:warn] [pid 6496:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 08 23:35:07.976121 2014] [mpm_winnt:notice] [pid 6496:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sun Jun 08 23:35:07.976121 2014] [mpm_winnt:notice] [pid 6496:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sun Jun 08 23:35:07.976121 2014] [core:notice] [pid 6496:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Sun Jun 08 23:35:07.982122 2014] [mpm_winnt:notice] [pid 6496:tid 624] AH00418: Parent: Created child process 5964
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 08 23:35:08.540154 2014] [ssl:warn] [pid 5964:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 08 23:35:08.811169 2014] [ssl:warn] [pid 5964:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 08 23:35:08.834170 2014] [mpm_winnt:notice] [pid 5964:tid 636] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 09 23:12:13.666415 2014] [ssl:warn] [pid 6844:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 09 23:12:13.701417 2014] [core:warn] [pid 6844:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 09 23:12:13.940431 2014] [ssl:warn] [pid 6844:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 09 23:12:14.072438 2014] [mpm_winnt:notice] [pid 6844:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Jun 09 23:12:14.072438 2014] [mpm_winnt:notice] [pid 6844:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Jun 09 23:12:14.072438 2014] [core:notice] [pid 6844:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Mon Jun 09 23:12:14.074439 2014] [mpm_winnt:notice] [pid 6844:tid 624] AH00418: Parent: Created child process 7880
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 09 23:12:14.614469 2014] [ssl:warn] [pid 7880:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 09 23:12:14.888485 2014] [ssl:warn] [pid 7880:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 09 23:12:14.912487 2014] [mpm_winnt:notice] [pid 7880:tid 636] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 09 23:31:37.039956 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:50161] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:31:38.757055 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:50161] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:31:39.714109 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:50161] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:31:41.423207 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:50162] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:31:49.018642 2014] [:error] [pid 7880:tid 1320] [client 127.0.0.1:50180] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:31:51.579788 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:50181] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:31:53.426894 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:50181] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:31:55.003984 2014] [:error] [pid 7880:tid 1312] [client 127.0.0.1:50185] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:32:21.315489 2014] [:error] [pid 7880:tid 1312] [client 127.0.0.1:50216] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:02.021112 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50236] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:04.434250 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50236] script 'C:/TWAMPd/htdocs/cookiestore/.defaultSelect.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:19.691123 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:50259] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:26.287500 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:50281] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:30.207725 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50289] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:33.547916 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50289] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:40.032287 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50289] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:36:43.844505 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50289] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:38:36.519949 2014] [:error] [pid 7880:tid 1344] [client 127.0.0.1:50355] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:38:42.314281 2014] [:error] [pid 7880:tid 1344] [client 127.0.0.1:50355] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:38:46.197503 2014] [:error] [pid 7880:tid 1344] [client 127.0.0.1:50355] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:39:16.822254 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50436] script 'C:/TWAMPd/htdocs/cookiestore/update.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Mon Jun 09 23:39:18.985378 2014] [:error] [pid 7880:tid 1328] [client 127.0.0.1:50436] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Mon Jun 09 23:53:54.026428 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:50867] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Mon Jun 09 23:53:58.653692 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:50867] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 00:03:23.193982 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:51204] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 00:03:24.677067 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:51204] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 00:03:30.770416 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:51204] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 00:07:30.070103 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:51385] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 00:20:48.519771 2014] [:error] [pid 7880:tid 1320] [client 127.0.0.1:52141] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 00:56:24.690953 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:53320] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer.php
+[Tue Jun 10 00:59:31.134617 2014] [:error] [pid 7880:tid 1344] [client 127.0.0.1:53543] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 01:06:01.891967 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:53713] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 01:12:48.288212 2014] [:error] [pid 7880:tid 1344] [client 127.0.0.1:53940] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 01:13:25.979368 2014] [:error] [pid 7880:tid 1336] [client 127.0.0.1:53984] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 01:17:57.098875 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:54211] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 01:18:00.040043 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:54211] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 01:20:38.031080 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:54367] script 'C:/TWAMPd/htdocs/cookiestore/managementUpdate.php' not found or unable to stat
+[Tue Jun 10 01:21:07.096742 2014] [:error] [pid 7880:tid 1304] [client 127.0.0.1:54378] script 'C:/TWAMPd/htdocs/cookiestore/defaultSelect..php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Tue Jun 10 03:15:13.880356 2014] [mpm_winnt:notice] [pid 6844:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 10 03:15:15.881470 2014] [mpm_winnt:notice] [pid 7880:tid 636] AH00364: Child: All worker threads have exited.
+[Tue Jun 10 03:15:15.931473 2014] [mpm_winnt:notice] [pid 6844:tid 624] AH00430: Parent: Child process 7880 exited successfully.
+[Tue Jun 10 04:06:02.914751 2014] [ssl:warn] [pid 7244:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 10 04:06:03.198767 2014] [ssl:warn] [pid 7244:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 10 04:06:03.233769 2014] [mpm_winnt:notice] [pid 7244:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Jun 10 04:06:03.233769 2014] [mpm_winnt:notice] [pid 7244:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Jun 10 04:06:03.233769 2014] [core:notice] [pid 7244:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Tue Jun 10 04:06:03.237769 2014] [mpm_winnt:notice] [pid 7244:tid 624] AH00418: Parent: Created child process 8432
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 10 04:06:03.805802 2014] [ssl:warn] [pid 8432:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 10 04:06:04.084817 2014] [ssl:warn] [pid 8432:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 10 04:06:04.107819 2014] [mpm_winnt:notice] [pid 8432:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 10 04:09:03.793096 2014] [mpm_winnt:notice] [pid 7244:tid 624] AH00428: Parent: child process 8432 exited with status 1073807364 -- Restarting.
+[Wed Jun 11 14:43:51.519677 2014] [ssl:warn] [pid 3884:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 11 14:43:51.554679 2014] [core:warn] [pid 3884:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 11 14:43:51.793693 2014] [ssl:warn] [pid 3884:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 11 14:43:52.044707 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Wed Jun 11 14:43:52.044707 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Wed Jun 11 14:43:52.044707 2014] [core:notice] [pid 3884:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Wed Jun 11 14:43:52.047707 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00418: Parent: Created child process 2208
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 11 14:43:52.583738 2014] [ssl:warn] [pid 2208:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 11 14:43:52.856754 2014] [ssl:warn] [pid 2208:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 11 14:43:52.878755 2014] [mpm_winnt:notice] [pid 2208:tid 636] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 11 14:58:38.331400 2014] [:error] [pid 2208:tid 1316] [client 127.0.0.1:51787] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 15:01:12.629225 2014] [:error] [pid 2208:tid 1324] [client 127.0.0.1:52022] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 15:01:16.754461 2014] [:error] [pid 2208:tid 1324] [client 127.0.0.1:52022] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 15:01:19.932643 2014] [:error] [pid 2208:tid 1324] [client 127.0.0.1:52022] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 15:12:19.556371 2014] [:error] [pid 2208:tid 1324] [client 127.0.0.1:52554] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 15:38:51.946451 2014] [:error] [pid 2208:tid 1340] [client 127.0.0.1:53824] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 15:42:43.389688 2014] [:error] [pid 2208:tid 1340] [client 127.0.0.1:53933] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 16:04:29.764409 2014] [:error] [pid 2208:tid 1340] [client 127.0.0.1:54362] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+zend_mm_heap corrupted
+[Wed Jun 11 16:14:22.935336 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00428: Parent: child process 2208 exited with status 1 -- Restarting.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 11 16:14:23.263355 2014] [ssl:warn] [pid 3884:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 11 16:14:23.285356 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Wed Jun 11 16:14:23.285356 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Wed Jun 11 16:14:23.285356 2014] [core:notice] [pid 3884:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Wed Jun 11 16:14:23.287356 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00418: Parent: Created child process 8620
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 11 16:14:23.823387 2014] [ssl:warn] [pid 8620:tid 640] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 11 16:14:24.096403 2014] [ssl:warn] [pid 8620:tid 640] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 11 16:14:24.118404 2014] [mpm_winnt:notice] [pid 8620:tid 640] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 11 16:43:28.423172 2014] [:error] [pid 8620:tid 1304] [client 127.0.0.1:55479] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 16:48:10.711318 2014] [:error] [pid 8620:tid 1304] [client 127.0.0.1:55807] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 16:53:08.678361 2014] [:error] [pid 8620:tid 1312] [client 127.0.0.1:55951] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 16:56:40.709489 2014] [:error] [pid 8620:tid 1320] [client 127.0.0.1:56163] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 16:57:00.234605 2014] [:error] [pid 8620:tid 1320] [client 127.0.0.1:56200] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 16:57:04.604855 2014] [:error] [pid 8620:tid 1320] [client 127.0.0.1:56200] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 16:59:11.626121 2014] [:error] [pid 8620:tid 1336] [client 127.0.0.1:56396] script 'C:/TWAMPd/htdocs/cookiestore/productView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/default.php
+[Wed Jun 11 20:46:59.803896 2014] [:error] [pid 8620:tid 1340] [client 127.0.0.1:62755] script 'C:/TWAMPd/htdocs/cookiestore/shoppingCart.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.php
+[Wed Jun 11 20:47:01.764008 2014] [:error] [pid 8620:tid 1340] [client 127.0.0.1:62755] script 'C:/TWAMPd/htdocs/cookiestore/shoppingCart.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.php
+[Wed Jun 11 20:47:11.716577 2014] [:error] [pid 8620:tid 1336] [client 127.0.0.1:62761] script 'C:/TWAMPd/htdocs/cookiestore/shoppingCart.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.php
+[Wed Jun 11 20:47:12.913645 2014] [:error] [pid 8620:tid 1336] [client 127.0.0.1:62761] script 'C:/TWAMPd/htdocs/cookiestore/shoppingCart.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/index.php
+[Thu Jun 12 06:14:01.192808 2014] [:error] [pid 8620:tid 1288] [client 127.0.0.1:65399] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Thu Jun 12 06:14:49.738584 2014] [:error] [pid 8620:tid 1320] [client 127.0.0.1:65418] script 'C:/TWAMPd/htdocs/cookiestore/register.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Thu Jun 12 06:15:49.752017 2014] [:error] [pid 8620:tid 1288] [client 127.0.0.1:65454] script 'C:/TWAMPd/htdocs/cookiestore/update.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/management.php
+[Thu Jun 12 08:15:06.501360 2014] [:error] [pid 8620:tid 1304] [client 127.0.0.1:52675] script 'C:/TWAMPd/htdocs/cookiestore/OrderView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer.php
+[Thu Jun 12 09:08:56.358097 2014] [:error] [pid 8620:tid 1268] [client 127.0.0.1:53828] script 'C:/TWAMPd/htdocs/cookiestore/adminer/shoppingCar.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer/adminerMember.php
+[Thu Jun 12 09:09:07.338725 2014] [:error] [pid 8620:tid 1312] [client 127.0.0.1:53843] script 'C:/TWAMPd/htdocs/cookiestore/adminer/shoppingCar.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer/adminerMember.php
+[Thu Jun 12 09:14:27.920061 2014] [:error] [pid 8620:tid 1304] [client 127.0.0.1:54121] script 'C:/TWAMPd/htdocs/cookiestore/adminer/shoppingCar.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer/adminerMember.php
+[Thu Jun 12 13:49:05.294914 2014] [:error] [pid 8620:tid 1340] [client 127.0.0.1:57576] script 'C:/TWAMPd/htdocs/cookiestore/OrderView.php' not found or unable to stat, referer: http://127.0.0.1/cookiestore/adminer.php
+[Thu Jun 12 14:20:05.822330 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 12 14:20:07.823444 2014] [mpm_winnt:notice] [pid 8620:tid 640] AH00364: Child: All worker threads have exited.
+[Thu Jun 12 14:20:07.881447 2014] [mpm_winnt:notice] [pid 3884:tid 624] AH00430: Parent: Child process 8620 exited successfully.
+[Thu Jun 12 23:40:18.011129 2014] [ssl:warn] [pid 8060:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 12 23:40:18.289145 2014] [ssl:warn] [pid 8060:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 12 23:40:18.468155 2014] [mpm_winnt:notice] [pid 8060:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Thu Jun 12 23:40:18.468155 2014] [mpm_winnt:notice] [pid 8060:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Thu Jun 12 23:40:18.468155 2014] [core:notice] [pid 8060:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Thu Jun 12 23:40:18.470156 2014] [mpm_winnt:notice] [pid 8060:tid 624] AH00418: Parent: Created child process 7836
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 12 23:40:19.014187 2014] [ssl:warn] [pid 7836:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 12 23:40:19.291203 2014] [ssl:warn] [pid 7836:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 12 23:40:19.313204 2014] [mpm_winnt:notice] [pid 7836:tid 636] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 12 23:55:32.069410 2014] [mpm_winnt:notice] [pid 8060:tid 624] AH00428: Parent: child process 7836 exited with status 1073807364 -- Restarting.
+[Sat Jun 21 22:26:59.749051 2014] [ssl:warn] [pid 1272:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 21 22:26:59.783052 2014] [core:warn] [pid 1272:tid 624] AH00098: pid file C:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 21 22:27:00.022066 2014] [ssl:warn] [pid 1272:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 22:27:00.248079 2014] [mpm_winnt:notice] [pid 1272:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat Jun 21 22:27:00.248079 2014] [mpm_winnt:notice] [pid 1272:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat Jun 21 22:27:00.248079 2014] [core:notice] [pid 1272:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Sat Jun 21 22:27:00.251079 2014] [mpm_winnt:notice] [pid 1272:tid 624] AH00418: Parent: Created child process 5004
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 21 22:27:00.790110 2014] [ssl:warn] [pid 5004:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 21 22:27:01.063126 2014] [ssl:warn] [pid 5004:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 22:27:01.085127 2014] [mpm_winnt:notice] [pid 5004:tid 636] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 21 22:28:31.765314 2014] [mpm_winnt:notice] [pid 1272:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 21 22:28:33.765428 2014] [mpm_winnt:notice] [pid 5004:tid 636] AH00364: Child: All worker threads have exited.
+[Sat Jun 21 22:28:33.806430 2014] [mpm_winnt:notice] [pid 1272:tid 624] AH00430: Parent: Child process 5004 exited successfully.
+[Sat Jun 21 23:05:06.943871 2014] [ssl:warn] [pid 5948:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 21 23:05:07.216886 2014] [ssl:warn] [pid 5948:tid 624] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 23:05:07.237887 2014] [mpm_winnt:notice] [pid 5948:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat Jun 21 23:05:07.237887 2014] [mpm_winnt:notice] [pid 5948:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat Jun 21 23:05:07.238887 2014] [core:notice] [pid 5948:tid 624] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Sat Jun 21 23:05:07.240888 2014] [mpm_winnt:notice] [pid 5948:tid 624] AH00418: Parent: Created child process 6644
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 21 23:05:07.782919 2014] [ssl:warn] [pid 6644:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 21 23:05:08.052934 2014] [ssl:warn] [pid 6644:tid 636] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 21 23:05:08.075935 2014] [mpm_winnt:notice] [pid 6644:tid 636] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 21 23:08:57.000029 2014] [mpm_winnt:notice] [pid 5948:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 21 23:08:59.000143 2014] [mpm_winnt:notice] [pid 6644:tid 636] AH00364: Child: All worker threads have exited.
+[Sat Jun 21 23:08:59.018144 2014] [mpm_winnt:notice] [pid 5948:tid 624] AH00430: Parent: Child process 6644 exited successfully.
+[Fri Oct 03 20:24:18.087819 2014] [ssl:warn] [pid 10716:tid 628] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 03 20:24:18.413838 2014] [ssl:warn] [pid 10716:tid 628] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 03 20:24:18.745857 2014] [mpm_winnt:notice] [pid 10716:tid 628] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Fri Oct 03 20:24:18.745857 2014] [mpm_winnt:notice] [pid 10716:tid 628] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Fri Oct 03 20:24:18.745857 2014] [core:notice] [pid 10716:tid 628] AH00094: Command line: 'C:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/TWAMPd/ap/apache -f C:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\TWAMPd\\htdocs''
+[Fri Oct 03 20:24:19.012872 2014] [mpm_winnt:notice] [pid 10716:tid 628] AH00418: Parent: Created child process 24928
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 03 20:24:19.753914 2014] [ssl:warn] [pid 24928:tid 640] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::ad2e:6286:8235:7a6b. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 03 20:24:20.078933 2014] [ssl:warn] [pid 24928:tid 640] AH01909: fe80::ad2e:6286:8235:7a6b:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 03 20:24:20.115935 2014] [mpm_winnt:notice] [pid 24928:tid 640] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 04 05:05:28.938409 2014] [mpm_winnt:notice] [pid 10716:tid 628] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 04 05:05:30.938524 2014] [mpm_winnt:notice] [pid 24928:tid 640] AH00364: Child: All worker threads have exited.
+[Sat Oct 04 05:05:30.961525 2014] [mpm_winnt:notice] [pid 10716:tid 628] AH00430: Parent: Child process 24928 exited successfully.
+[Sat Nov 22 00:58:51.717745 2014] [ssl:warn] [pid 49512:tid 624] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 22 00:58:52.010782 2014] [ssl:warn] [pid 49512:tid 624] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 22 00:58:52.382830 2014] [mpm_winnt:notice] [pid 49512:tid 624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat Nov 22 00:58:52.390831 2014] [mpm_winnt:notice] [pid 49512:tid 624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat Nov 22 00:58:52.390831 2014] [core:notice] [pid 49512:tid 624] AH00094: Command line: 'D:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d D:/TWAMPd/ap/apache -f D:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d D:\\TWAMPd\\ap\\apache -C DocumentRoot 'D:\\TWAMPd\\htdocs''
+[Sat Nov 22 00:58:52.391831 2014] [mpm_winnt:notice] [pid 49512:tid 624] AH00418: Parent: Created child process 51112
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 22 00:58:52.864391 2014] [ssl:warn] [pid 51112:tid 636] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 22 00:58:53.153427 2014] [ssl:warn] [pid 51112:tid 636] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 22 00:58:53.169429 2014] [mpm_winnt:notice] [pid 51112:tid 636] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 23 03:49:06.617293 2014] [mpm_winnt:notice] [pid 49512:tid 624] AH00428: Parent: child process 51112 exited with status 1073807364 -- Restarting.
+[Tue Dec 16 01:33:36.121698 2014] [ssl:warn] [pid 10264:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 16 01:33:36.188702 2014] [core:warn] [pid 10264:tid 620] AH00098: pid file D:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 16 01:33:36.430716 2014] [ssl:warn] [pid 10264:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 01:33:37.978804 2014] [mpm_winnt:notice] [pid 10264:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Dec 16 01:33:37.994805 2014] [mpm_winnt:notice] [pid 10264:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Dec 16 01:33:37.994805 2014] [core:notice] [pid 10264:tid 620] AH00094: Command line: 'D:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d D:/TWAMPd/ap/apache -f D:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d D:\\TWAMPd\\ap\\apache -C DocumentRoot 'D:\\TWAMPd\\htdocs''
+[Tue Dec 16 01:33:37.995805 2014] [mpm_winnt:notice] [pid 10264:tid 620] AH00418: Parent: Created child process 6800
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 16 01:33:38.456832 2014] [ssl:warn] [pid 6800:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 16 01:33:38.737848 2014] [ssl:warn] [pid 6800:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 01:33:38.752849 2014] [mpm_winnt:notice] [pid 6800:tid 632] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 16 05:20:58.883139 2014] [:error] [pid 6800:tid 1328] [client 127.0.0.1:12783] script 'D:/TWAMPd/htdocs/Dragon_No.9/studentpage.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/connect.php
+[Tue Dec 16 09:21:02.685025 2014] [mpm_winnt:notice] [pid 10264:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 16 09:21:04.685140 2014] [mpm_winnt:notice] [pid 6800:tid 632] AH00364: Child: All worker threads have exited.
+[Tue Dec 16 09:21:04.735143 2014] [mpm_winnt:notice] [pid 10264:tid 620] AH00430: Parent: Child process 6800 exited successfully.
+[Tue Dec 16 09:24:47.322874 2014] [ssl:warn] [pid 6376:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 16 09:24:47.597890 2014] [ssl:warn] [pid 6376:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 09:24:47.651893 2014] [mpm_winnt:notice] [pid 6376:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Dec 16 09:24:47.651893 2014] [mpm_winnt:notice] [pid 6376:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Dec 16 09:24:47.651893 2014] [core:notice] [pid 6376:tid 620] AH00094: Command line: 'D:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d D:/TWAMPd/ap/apache -f D:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d D:\\TWAMPd\\ap\\apache -C DocumentRoot 'D:\\TWAMPd\\htdocs''
+[Tue Dec 16 09:24:47.651893 2014] [mpm_winnt:notice] [pid 6376:tid 620] AH00418: Parent: Created child process 20928
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 16 09:24:48.094918 2014] [ssl:warn] [pid 20928:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 16 09:24:48.365934 2014] [ssl:warn] [pid 20928:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 09:24:48.379934 2014] [mpm_winnt:notice] [pid 20928:tid 632] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 16 09:52:01.687500 2014] [ssl:warn] [pid 2980:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 09:52:03.578125 2014] [core:warn] [pid 2980:tid 1648] AH00098: pid file G:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 16 09:52:05.250000 2014] [ssl:warn] [pid 2980:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 09:52:07.375000 2014] [mpm_winnt:notice] [pid 2980:tid 1648] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Dec 16 09:52:07.375000 2014] [mpm_winnt:notice] [pid 2980:tid 1648] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Dec 16 09:52:07.375000 2014] [core:notice] [pid 2980:tid 1648] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Tue Dec 16 09:52:07.468750 2014] [mpm_winnt:notice] [pid 2980:tid 1648] AH00418: Parent: Created child process 3464
+[Tue Dec 16 09:52:08.750000 2014] [ssl:warn] [pid 3464:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 09:52:09.406250 2014] [ssl:warn] [pid 3464:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 09:52:09.703125 2014] [mpm_winnt:notice] [pid 3464:tid 1672] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 16 15:47:46.109375 2014] [ssl:warn] [pid 3892:tid 1624] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 15:47:47.218750 2014] [core:warn] [pid 3892:tid 1624] AH00098: pid file G:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 16 15:47:49.250000 2014] [ssl:warn] [pid 3892:tid 1624] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 15:47:52.421875 2014] [mpm_winnt:notice] [pid 3892:tid 1624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Dec 16 15:47:52.437500 2014] [mpm_winnt:notice] [pid 3892:tid 1624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Dec 16 15:47:52.437500 2014] [core:notice] [pid 3892:tid 1624] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Tue Dec 16 15:47:52.500000 2014] [mpm_winnt:notice] [pid 3892:tid 1624] AH00418: Parent: Created child process 256
+Apache server shutdown initiated...
+sl:warn] [pid 256:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 15:47:56.359375 2014] [ssl:warn] [pid 256:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 16 15:47:56.718750 2014] [mpm_winnt:notice] [pid 256:tid 1648] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 16 16:20:11.437500 2014] [mpm_winnt:notice] [pid 3892:tid 1624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 16 16:20:13.437500 2014] [mpm_winnt:notice] [pid 256:tid 1648] AH00364: Child: All worker threads have exited.
+[Tue Dec 16 16:20:13.515625 2014] [mpm_winnt:notice] [pid 3892:tid 1624] AH00430: Parent: Child process 256 exited successfully.
+[Wed Dec 17 15:34:02.640625 2014] [ssl:warn] [pid 3756:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 17 15:34:03.421875 2014] [ssl:warn] [pid 3756:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 17 15:34:07.031250 2014] [mpm_winnt:notice] [pid 3756:tid 1648] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Wed Dec 17 15:34:07.031250 2014] [mpm_winnt:notice] [pid 3756:tid 1648] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Wed Dec 17 15:34:07.031250 2014] [core:notice] [pid 3756:tid 1648] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Wed Dec 17 15:34:07.171875 2014] [mpm_winnt:notice] [pid 3756:tid 1648] AH00418: Parent: Created child process 2252
+[Wed Dec 17 15:34:09.359375 2014] [ssl:warn] [pid 2252:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 17 15:34:09.984375 2014] [ssl:warn] [pid 2252:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 17 15:34:10.250000 2014] [mpm_winnt:notice] [pid 2252:tid 1672] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 17 18:23:22.453125 2014] [mpm_winnt:notice] [pid 3756:tid 1648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 17 18:23:24.453125 2014] [mpm_winnt:notice] [pid 2252:tid 1672] AH00364: Child: All worker threads have exited.
+[Wed Dec 17 18:23:24.640625 2014] [mpm_winnt:notice] [pid 3756:tid 1648] AH00430: Parent: Child process 2252 exited successfully.
+[Sun Dec 21 13:52:15.107039 2014] [ssl:warn] [pid 22316:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 21 13:52:21.616412 2014] [ssl:warn] [pid 22316:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 21 13:52:28.001777 2014] [mpm_winnt:notice] [pid 22316:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sun Dec 21 13:52:28.003777 2014] [mpm_winnt:notice] [pid 22316:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sun Dec 21 13:52:28.003777 2014] [core:notice] [pid 22316:tid 620] AH00094: Command line: 'H:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d H:/TWAMPd/ap/apache -f H:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d H:\\TWAMPd\\ap\\apache -C DocumentRoot 'H:\\TWAMPd\\htdocs''
+[Sun Dec 21 13:52:28.011778 2014] [mpm_winnt:notice] [pid 22316:tid 620] AH00418: Parent: Created child process 13644
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 21 13:52:28.705817 2014] [ssl:warn] [pid 13644:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 21 13:52:29.095840 2014] [ssl:warn] [pid 13644:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 21 13:52:29.175844 2014] [mpm_winnt:notice] [pid 13644:tid 632] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 22 05:00:38.595530 2014] [:error] [pid 13644:tid 1344] [client 127.0.0.1:12224] script 'H:/TWAMPd/htdocs/Dragon_No.9/cconnect.php' not found or unable to stat
+[Mon Dec 22 09:02:19.528936 2014] [mpm_winnt:notice] [pid 22316:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 22 09:02:21.529051 2014] [mpm_winnt:notice] [pid 13644:tid 632] AH00364: Child: All worker threads have exited.
+[Mon Dec 22 09:02:21.688060 2014] [mpm_winnt:notice] [pid 22316:tid 620] AH00430: Parent: Child process 13644 exited successfully.
+[Mon Dec 22 12:51:28.796875 2014] [ssl:warn] [pid 468:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 12:51:34.500000 2014] [ssl:warn] [pid 468:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 12:51:38.453125 2014] [mpm_winnt:notice] [pid 468:tid 1648] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Dec 22 12:51:38.500000 2014] [mpm_winnt:notice] [pid 468:tid 1648] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Dec 22 12:51:38.500000 2014] [core:notice] [pid 468:tid 1648] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Mon Dec 22 12:51:38.609375 2014] [mpm_winnt:notice] [pid 468:tid 1648] AH00418: Parent: Created child process 1392
+Apache server shutdown initiated...
+sl:warn] [pid 1392:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 12:51:43.453125 2014] [ssl:warn] [pid 1392:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 12:51:43.796875 2014] [mpm_winnt:notice] [pid 1392:tid 1672] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 22 15:31:45.984375 2014] [mpm_winnt:notice] [pid 468:tid 1648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 22 15:31:47.984375 2014] [mpm_winnt:notice] [pid 1392:tid 1672] AH00364: Child: All worker threads have exited.
+[Mon Dec 22 15:31:48.078125 2014] [mpm_winnt:notice] [pid 468:tid 1648] AH00430: Parent: Child process 1392 exited successfully.
+[Mon Dec 22 17:59:30.000000 2014] [ssl:warn] [pid 2508:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 17:59:31.218750 2014] [ssl:warn] [pid 2508:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 17:59:33.421875 2014] [mpm_winnt:notice] [pid 2508:tid 1648] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Dec 22 17:59:33.421875 2014] [mpm_winnt:notice] [pid 2508:tid 1648] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Dec 22 17:59:33.421875 2014] [core:notice] [pid 2508:tid 1648] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Mon Dec 22 17:59:33.468750 2014] [mpm_winnt:notice] [pid 2508:tid 1648] AH00418: Parent: Created child process 3256
+[Mon Dec 22 17:59:34.640625 2014] [ssl:warn] [pid 3256:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 17:59:35.437500 2014] [ssl:warn] [pid 3256:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 17:59:35.703125 2014] [mpm_winnt:notice] [pid 3256:tid 1672] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 22 18:45:27.000000 2014] [:error] [pid 3256:tid 992] [client 127.0.0.1:3095] script 'G:/TWAMPd/htdocs/Dragon_No.9/process/process_clerkPage_d.php.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/clerkPage.php
+[Mon Dec 22 18:45:30.859375 2014] [:error] [pid 3256:tid 992] [client 127.0.0.1:3095] script 'G:/TWAMPd/htdocs/Dragon_No.9/process/process_clerkPage_d.php.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/clerkPage.php
+[Mon Dec 22 18:45:33.187500 2014] [:error] [pid 3256:tid 992] [client 127.0.0.1:3095] script 'G:/TWAMPd/htdocs/Dragon_No.9/process/process_clerkPage_d.php.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/clerkPage.php
+[Mon Dec 22 18:57:12.625000 2014] [mpm_winnt:notice] [pid 2508:tid 1648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 22 18:57:14.625000 2014] [mpm_winnt:notice] [pid 3256:tid 1672] AH00364: Child: All worker threads have exited.
+[Mon Dec 22 18:57:14.796875 2014] [mpm_winnt:notice] [pid 2508:tid 1648] AH00430: Parent: Child process 3256 exited successfully.
+[Mon Dec 22 23:53:30.020575 2014] [ssl:warn] [pid 7896:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 22 23:53:32.341708 2014] [ssl:warn] [pid 7896:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 23:53:32.938742 2014] [mpm_winnt:notice] [pid 7896:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Dec 22 23:53:32.940742 2014] [mpm_winnt:notice] [pid 7896:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Dec 22 23:53:32.940742 2014] [core:notice] [pid 7896:tid 620] AH00094: Command line: 'H:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d H:/TWAMPd/ap/apache -f H:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d H:\\TWAMPd\\ap\\apache -C DocumentRoot 'H:\\TWAMPd\\htdocs''
+[Mon Dec 22 23:53:32.961743 2014] [mpm_winnt:notice] [pid 7896:tid 620] AH00418: Parent: Created child process 7380
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 22 23:53:33.612780 2014] [ssl:warn] [pid 7380:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 22 23:53:33.983802 2014] [ssl:warn] [pid 7380:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 22 23:53:34.058806 2014] [mpm_winnt:notice] [pid 7380:tid 632] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 23 00:03:24.160558 2014] [:error] [pid 7380:tid 1320] [client 127.0.0.1:4845] script 'H:/TWAMPd/htdocs/Dragon_No.9/process/process_clerkPage_d.php.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/clerkPage.php
+[Tue Dec 23 00:03:25.201617 2014] [:error] [pid 7380:tid 1320] [client 127.0.0.1:4845] script 'H:/TWAMPd/htdocs/Dragon_No.9/process/process_clerkPage_d.php.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/clerkPage.php
+[Tue Dec 23 00:07:17.511905 2014] [:error] [pid 7380:tid 1336] [client 127.0.0.1:4939] script 'H:/TWAMPd/htdocs/Dragon_No.9/adminerPage.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/connect.php
+[Tue Dec 23 00:26:57.470395 2014] [:error] [pid 7380:tid 1320] [client 127.0.0.1:5389] script 'H:/TWAMPd/htdocs/Dragon_No.9/process_clerkPage_d.php' not found or unable to stat
+[Tue Dec 23 05:39:31.737077 2014] [:error] [pid 7380:tid 1304] [client 127.0.0.1:11262] script 'H:/TWAMPd/htdocs/Dragon_No.9/adminer.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/adminer/adminerTime.php
+[Tue Dec 23 11:15:44.638380 2014] [mpm_winnt:notice] [pid 7896:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 23 11:15:46.643495 2014] [mpm_winnt:notice] [pid 7380:tid 632] AH00364: Child: All worker threads have exited.
+[Tue Dec 23 11:15:46.762502 2014] [mpm_winnt:notice] [pid 7896:tid 620] AH00430: Parent: Child process 7380 exited successfully.
+[Tue Dec 23 12:13:42.015625 2014] [ssl:warn] [pid 2956:tid 1640] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 12:13:43.421875 2014] [ssl:warn] [pid 2956:tid 1640] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 12:13:47.203125 2014] [mpm_winnt:notice] [pid 2956:tid 1640] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Dec 23 12:13:47.281250 2014] [mpm_winnt:notice] [pid 2956:tid 1640] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Dec 23 12:13:47.281250 2014] [core:notice] [pid 2956:tid 1640] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Tue Dec 23 12:13:47.328125 2014] [mpm_winnt:notice] [pid 2956:tid 1640] AH00418: Parent: Created child process 2832
+Apache server shutdown initiated...
+sl:warn] [pid 2832:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 12:13:50.468750 2014] [ssl:warn] [pid 2832:tid 1672] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 12:13:51.187500 2014] [mpm_winnt:notice] [pid 2832:tid 1672] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 23 14:58:10.703125 2014] [mpm_winnt:notice] [pid 2956:tid 1640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 23 14:58:12.703125 2014] [mpm_winnt:notice] [pid 2832:tid 1672] AH00364: Child: All worker threads have exited.
+[Tue Dec 23 14:58:12.937500 2014] [mpm_winnt:notice] [pid 2956:tid 1640] AH00430: Parent: Child process 2832 exited successfully.
+[Tue Dec 23 15:25:24.703125 2014] [ssl:warn] [pid 3564:tid 1624] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 15:25:25.640625 2014] [ssl:warn] [pid 3564:tid 1624] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 15:25:27.734375 2014] [mpm_winnt:notice] [pid 3564:tid 1624] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Dec 23 15:25:27.734375 2014] [mpm_winnt:notice] [pid 3564:tid 1624] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Dec 23 15:25:27.734375 2014] [core:notice] [pid 3564:tid 1624] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Tue Dec 23 15:25:27.781250 2014] [mpm_winnt:notice] [pid 3564:tid 1624] AH00418: Parent: Created child process 1740
+Apache server shutdown initiated...
+sl:warn] [pid 1740:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 15:25:29.593750 2014] [ssl:warn] [pid 1740:tid 1648] AH01909: users.nkfust.edu.tw:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 15:25:29.875000 2014] [mpm_winnt:notice] [pid 1740:tid 1648] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 23 16:19:38.843750 2014] [:error] [pid 1740:tid 952] [client 127.0.0.1:3313] script 'G:/TWAMPd/htdocs/Dragon_No.9/adminerPage_add.php' not found or unable to stat
+[Tue Dec 23 16:22:05.625000 2014] [mpm_winnt:notice] [pid 3564:tid 1624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 23 16:22:07.625000 2014] [mpm_winnt:notice] [pid 1740:tid 1648] AH00364: Child: All worker threads have exited.
+[Tue Dec 23 16:22:07.812500 2014] [mpm_winnt:notice] [pid 3564:tid 1624] AH00430: Parent: Child process 1740 exited successfully.
+[Tue Dec 23 23:40:49.474441 2014] [ssl:warn] [pid 5532:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 23 23:40:51.038531 2014] [ssl:warn] [pid 5532:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 23:40:54.207712 2014] [mpm_winnt:notice] [pid 5532:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Tue Dec 23 23:40:54.269715 2014] [mpm_winnt:notice] [pid 5532:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Tue Dec 23 23:40:54.269715 2014] [core:notice] [pid 5532:tid 620] AH00094: Command line: 'H:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d H:/TWAMPd/ap/apache -f H:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d H:\\TWAMPd\\ap\\apache -C DocumentRoot 'H:\\TWAMPd\\htdocs''
+[Tue Dec 23 23:40:54.296717 2014] [mpm_winnt:notice] [pid 5532:tid 620] AH00418: Parent: Created child process 4104
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 23 23:40:55.293774 2014] [ssl:warn] [pid 4104:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 23 23:40:55.692797 2014] [ssl:warn] [pid 4104:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 23 23:40:55.767801 2014] [mpm_winnt:notice] [pid 4104:tid 632] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 24 04:01:37.818475 2014] [mpm_winnt:notice] [pid 5532:tid 620] AH00428: Parent: child process 4104 exited with status 1073807364 -- Restarting.
+[Sat Dec 27 16:45:18.459961 2014] [ssl:warn] [pid 5624:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 16:45:22.430188 2014] [core:warn] [pid 5624:tid 620] AH00098: pid file H:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 27 16:45:24.099284 2014] [ssl:warn] [pid 5624:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 27 16:45:28.750550 2014] [mpm_winnt:notice] [pid 5624:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat Dec 27 16:45:28.753550 2014] [mpm_winnt:notice] [pid 5624:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat Dec 27 16:45:28.753550 2014] [core:notice] [pid 5624:tid 620] AH00094: Command line: 'H:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d H:/TWAMPd/ap/apache -f H:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d H:\\TWAMPd\\ap\\apache -C DocumentRoot 'H:\\TWAMPd\\htdocs''
+[Sat Dec 27 16:45:30.068625 2014] [mpm_winnt:notice] [pid 5624:tid 620] AH00418: Parent: Created child process 4884
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 16:45:31.219691 2014] [ssl:warn] [pid 4884:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 16:45:31.782723 2014] [ssl:warn] [pid 4884:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 27 16:45:31.856727 2014] [mpm_winnt:notice] [pid 4884:tid 632] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 27 19:13:42.378236 2014] [mpm_winnt:notice] [pid 5624:tid 620] AH00428: Parent: child process 4884 exited with status 1073807364 -- Restarting.
+[Sat Dec 27 20:03:13.796875 2014] [ssl:warn] [pid 3696:tid 1648] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.114. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 20:03:15.187500 2014] [core:warn] [pid 3696:tid 1648] AH00098: pid file G:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 27 20:03:15.453125 2014] [ssl:warn] [pid 3696:tid 1648] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 27 20:03:19.234375 2014] [mpm_winnt:notice] [pid 3696:tid 1648] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat Dec 27 20:03:19.234375 2014] [mpm_winnt:notice] [pid 3696:tid 1648] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat Dec 27 20:03:19.234375 2014] [core:notice] [pid 3696:tid 1648] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Sat Dec 27 20:03:19.375000 2014] [mpm_winnt:notice] [pid 3696:tid 1648] AH00418: Parent: Created child process 3632
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.114. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 20:03:22.968750 2014] [ssl:warn] [pid 3632:tid 1672] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.114. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 20:03:23.875000 2014] [ssl:warn] [pid 3632:tid 1672] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 27 20:03:24.187500 2014] [mpm_winnt:notice] [pid 3632:tid 1672] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 27 20:04:39.078125 2014] [:error] [pid 3632:tid 968] [client 127.0.0.1:1416] script 'G:/TWAMPd/htdocs/cookiestore/indeex.php' not found or unable to stat
+[Sat Dec 27 20:30:07.218750 2014] [ssl:warn] [pid 3028:tid 1648] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.114. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 20:30:07.750000 2014] [core:warn] [pid 3028:tid 1648] AH00098: pid file G:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 27 20:30:08.000000 2014] [ssl:warn] [pid 3028:tid 1648] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 27 20:30:11.718750 2014] [mpm_winnt:notice] [pid 3028:tid 1648] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sat Dec 27 20:30:11.718750 2014] [mpm_winnt:notice] [pid 3028:tid 1648] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sat Dec 27 20:30:11.718750 2014] [core:notice] [pid 3028:tid 1648] AH00094: Command line: 'G:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d G:/TWAMPd/ap/apache -f G:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d G:\\TWAMPd\\ap\\apache -C DocumentRoot 'G:\\TWAMPd\\htdocs''
+[Sat Dec 27 20:30:11.765625 2014] [mpm_winnt:notice] [pid 3028:tid 1648] AH00418: Parent: Created child process 5748
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.114. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+sl:warn] [pid 5748:tid 1672] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.114. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 27 20:30:16.343750 2014] [ssl:warn] [pid 5748:tid 1672] AH01909: 192.168.0.114:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 27 20:30:16.734375 2014] [mpm_winnt:notice] [pid 5748:tid 1672] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 27 23:37:11.453125 2014] [mpm_winnt:notice] [pid 3028:tid 1648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 27 23:37:13.640625 2014] [mpm_winnt:notice] [pid 5748:tid 1672] AH00364: Child: All worker threads have exited.
+[Sat Dec 27 23:37:21.812500 2014] [mpm_winnt:notice] [pid 3028:tid 1648] AH00430: Parent: Child process 5748 exited successfully.
+[Sun Dec 28 15:10:18.920313 2014] [ssl:warn] [pid 4604:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 28 15:10:22.069493 2014] [ssl:warn] [pid 4604:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 28 15:10:24.078608 2014] [mpm_winnt:notice] [pid 4604:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Sun Dec 28 15:10:24.080608 2014] [mpm_winnt:notice] [pid 4604:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Sun Dec 28 15:10:24.080608 2014] [core:notice] [pid 4604:tid 620] AH00094: Command line: 'H:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d H:/TWAMPd/ap/apache -f H:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d H:\\TWAMPd\\ap\\apache -C DocumentRoot 'H:\\TWAMPd\\htdocs''
+[Sun Dec 28 15:10:24.101609 2014] [mpm_winnt:notice] [pid 4604:tid 620] AH00418: Parent: Created child process 3784
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 28 15:10:26.538749 2014] [ssl:warn] [pid 3784:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 28 15:10:27.037777 2014] [ssl:warn] [pid 3784:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 28 15:10:27.168785 2014] [mpm_winnt:notice] [pid 3784:tid 632] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 28 18:02:00.381523 2014] [:error] [pid 3784:tid 1364] [client 127.0.0.1:7377] script 'H:/TWAMPd/htdocs/Dragon_No.9/process_search.php' not found or unable to stat
+[Sun Dec 28 18:26:39.676133 2014] [:error] [pid 3784:tid 1348] [client 127.0.0.1:8012] script 'H:/TWAMPd/htdocs/Dragon_No.9/process_reservation.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/reservation.php
+[Sun Dec 28 18:26:59.340258 2014] [:error] [pid 3784:tid 1352] [client 127.0.0.1:8033] script 'H:/TWAMPd/htdocs/Dragon_No.9/process/management.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/process/process_reservation.php
+[Mon Dec 29 09:02:24.020830 2014] [mpm_winnt:notice] [pid 4604:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 29 09:02:26.026945 2014] [mpm_winnt:notice] [pid 3784:tid 632] AH00364: Child: All worker threads have exited.
+[Mon Dec 29 09:02:26.169953 2014] [mpm_winnt:notice] [pid 4604:tid 620] AH00430: Parent: Child process 3784 exited successfully.
+[Mon Dec 29 13:38:46.484171 2014] [ssl:warn] [pid 1148:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 13:38:49.571348 2014] [ssl:warn] [pid 1148:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 29 13:38:52.806533 2014] [mpm_winnt:notice] [pid 1148:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Dec 29 13:38:52.807533 2014] [mpm_winnt:notice] [pid 1148:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Dec 29 13:38:52.808533 2014] [core:notice] [pid 1148:tid 620] AH00094: Command line: 'H:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d H:/TWAMPd/ap/apache -f H:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d H:\\TWAMPd\\ap\\apache -C DocumentRoot 'H:\\TWAMPd\\htdocs''
+[Mon Dec 29 13:38:52.833534 2014] [mpm_winnt:notice] [pid 1148:tid 620] AH00418: Parent: Created child process 528
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 13:38:56.717757 2014] [ssl:warn] [pid 528:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 13:38:57.527803 2014] [ssl:warn] [pid 528:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 29 13:38:57.684812 2014] [mpm_winnt:notice] [pid 528:tid 632] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 29 14:08:09.076986 2014] [:error] [pid 528:tid 1344] [client 127.0.0.1:5529] script 'H:/TWAMPd/htdocs/Dragon_No.9/connect.php' not found or unable to stat
+[Mon Dec 29 14:14:45.584665 2014] [:error] [pid 528:tid 1324] [client 127.0.0.1:5674] script 'H:/TWAMPd/htdocs/Dragon_No.9/process/adminerPage.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/process/adminer/adminerStudent.php
+[Mon Dec 29 14:16:06.703304 2014] [:error] [pid 528:tid 1324] [client 127.0.0.1:5686] script 'H:/TWAMPd/htdocs/Dragon_No.9/process/adminerPage.php' not found or unable to stat, referer: http://127.0.0.1/Dragon_No.9/process/adminer/adminerStudent.php
+[Mon Dec 29 14:16:13.844713 2014] [core:error] [pid 528:tid 1324] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:5686] AH00127: Cannot map GET /Dragon_No.9/process/adminer/..../adminerPage.php?tab=0 HTTP/1.1 to file, referer: http://127.0.0.1/Dragon_No.9/process/adminer/adminerStudent.php
+[Mon Dec 29 14:16:36.417004 2014] [core:error] [pid 528:tid 1324] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:5700] AH00127: Cannot map GET /Dragon_No.9/process/adminer/..../adminerPage.php?tab=0 HTTP/1.1 to file, referer: http://127.0.0.1/Dragon_No.9/process/adminer/adminerStudent.php
+[Mon Dec 29 14:29:44.309069 2014] [core:error] [pid 528:tid 1316] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:6207] AH00127: Cannot map GET /Dragon_No.9/process/.../adminerPage.php?tab=0 HTTP/1.1 to file, referer: http://127.0.0.1/Dragon_No.9/process/adminer/adminerStudent.php
+[Mon Dec 29 14:30:03.947192 2014] [core:error] [pid 528:tid 1316] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:6213] AH00127: Cannot map GET /Dragon_No.9/process/.../adminerPage.php?tab=0 HTTP/1.1 to file, referer: http://127.0.0.1/Dragon_No.9/process/adminer/adminerStudent.php
+[Mon Dec 29 15:19:03.661334 2014] [mpm_winnt:notice] [pid 1148:tid 620] AH00428: Parent: child process 528 exited with status 1073807364 -- Restarting.
+[Mon Dec 29 18:18:29.584919 2014] [ssl:warn] [pid 3368:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 18:18:30.745985 2014] [core:warn] [pid 3368:tid 620] AH00098: pid file H:\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 29 18:18:31.235013 2014] [ssl:warn] [pid 3368:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 29 18:18:32.952112 2014] [mpm_winnt:notice] [pid 3368:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Dec 29 18:18:32.954112 2014] [mpm_winnt:notice] [pid 3368:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Dec 29 18:18:32.954112 2014] [core:notice] [pid 3368:tid 620] AH00094: Command line: 'H:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d H:/TWAMPd/ap/apache -f H:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d H:\\TWAMPd\\ap\\apache -C DocumentRoot 'H:\\TWAMPd\\htdocs''
+[Mon Dec 29 18:18:32.965112 2014] [mpm_winnt:notice] [pid 3368:tid 620] AH00418: Parent: Created child process 2812
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 18:18:35.117235 2014] [ssl:warn] [pid 2812:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 18:57:36.332826 2014] [ssl:warn] [pid 4236:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 18:57:36.350827 2014] [core:warn] [pid 4236:tid 620] AH00098: pid file C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\ap\\apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 29 18:57:36.590841 2014] [ssl:warn] [pid 4236:tid 620] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 29 18:57:36.641844 2014] [mpm_winnt:notice] [pid 4236:tid 620] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Mon Dec 29 18:57:36.641844 2014] [mpm_winnt:notice] [pid 4236:tid 620] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Mon Dec 29 18:57:36.641844 2014] [core:notice] [pid 4236:tid 620] AH00094: Command line: 'C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/Users/ZhongYou/Desktop/TWAMPd/ap/apache -f C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\htdocs''
+[Mon Dec 29 18:57:36.643844 2014] [mpm_winnt:notice] [pid 4236:tid 620] AH00418: Parent: Created child process 3812
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 18:57:37.064868 2014] [ssl:warn] [pid 3812:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 29 18:57:37.320882 2014] [ssl:warn] [pid 3812:tid 632] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 29 18:57:37.334883 2014] [mpm_winnt:notice] [pid 3812:tid 632] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 29 19:04:15.561661 2014] [mpm_winnt:notice] [pid 4236:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 29 19:04:17.561775 2014] [mpm_winnt:notice] [pid 3812:tid 632] AH00364: Child: All worker threads have exited.
+[Mon Dec 29 19:04:17.598777 2014] [mpm_winnt:notice] [pid 4236:tid 620] AH00430: Parent: Child process 3812 exited successfully.
+[Thu Apr 16 20:24:11.999306 2015] [ssl:warn] [pid 8948:tid 636] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 16 20:24:12.294323 2015] [ssl:warn] [pid 8948:tid 636] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 16 20:24:12.397329 2015] [mpm_winnt:notice] [pid 8948:tid 636] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Thu Apr 16 20:24:12.397329 2015] [mpm_winnt:notice] [pid 8948:tid 636] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Thu Apr 16 20:24:12.397329 2015] [core:notice] [pid 8948:tid 636] AH00094: Command line: 'C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d C:/Users/ZhongYou/Desktop/TWAMPd/ap/apache -f C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\ap\\apache -C DocumentRoot 'C:\\Users\\ZhongYou\\Desktop\\TWAMPd\\htdocs''
+[Thu Apr 16 20:24:12.398329 2015] [mpm_winnt:notice] [pid 8948:tid 636] AH00418: Parent: Created child process 6748
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 16 20:24:12.855355 2015] [ssl:warn] [pid 6748:tid 648] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5847:709c:dedc:efc4. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 16 20:24:13.151372 2015] [ssl:warn] [pid 6748:tid 648] AH01909: fe80::5847:709c:dedc:efc4:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 16 20:24:13.164373 2015] [mpm_winnt:notice] [pid 6748:tid 648] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 16 20:24:42.741065 2015] [mpm_winnt:notice] [pid 8948:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 16 20:24:44.741179 2015] [mpm_winnt:notice] [pid 6748:tid 648] AH00364: Child: All worker threads have exited.
+[Thu Apr 16 20:24:44.769181 2015] [mpm_winnt:notice] [pid 8948:tid 636] AH00430: Parent: Child process 6748 exited successfully.
+[Wed Jun 24 00:38:24.310387 2015] [ssl:warn] [pid 1104:tid 640] AH01909: fe80::7415:b3a9:ab0f:7c5a:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7415:b3a9:ab0f:7c5a. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 24 00:38:25.641274 2015] [ssl:warn] [pid 1104:tid 640] AH01909: fe80::7415:b3a9:ab0f:7c5a:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 24 00:38:25.783372 2015] [mpm_winnt:notice] [pid 1104:tid 640] AH00455: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.4.28 configured -- resuming normal operations
+[Wed Jun 24 00:38:25.783372 2015] [mpm_winnt:notice] [pid 1104:tid 640] AH00456: Apache Lounge VC9 Server built: Mar 17 2014 19:17:53
+[Wed Jun 24 00:38:25.783372 2015] [core:notice] [pid 1104:tid 640] AH00094: Command line: 'F:\\TWAMPd\\ap\\apache\\bin\\httpd.exe -d F:/TWAMPd/ap/apache -f F:\\TWAMPd\\ap\\apache\\conf\\twamp.conf -d F:\\TWAMPd\\ap\\apache -C DocumentRoot 'F:\\TWAMPd\\htdocs''
+[Wed Jun 24 00:38:25.813390 2015] [mpm_winnt:notice] [pid 1104:tid 640] AH00418: Parent: Created child process 5276
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7415:b3a9:ab0f:7c5a. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 24 00:38:27.367426 2015] [ssl:warn] [pid 5276:tid 692] AH01909: fe80::7415:b3a9:ab0f:7c5a:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::7415:b3a9:ab0f:7c5a. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 24 00:38:28.642275 2015] [ssl:warn] [pid 5276:tid 692] AH01909: fe80::7415:b3a9:ab0f:7c5a:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 24 00:38:28.769360 2015] [mpm_winnt:notice] [pid 5276:tid 692] AH00354: Child: Starting 64 worker threads.
